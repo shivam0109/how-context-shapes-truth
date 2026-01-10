@@ -6,7 +6,9 @@ Large Language Models (LLMs) often encode whether a statement is true as a vecto
 
 ## Overview
 
-<img src="intro-figure.png" alt="Introduction Figure" width="650"/>
+<div align="center">
+  <img src="intro-figure.png" alt="Introduction Figure" width="500"/>
+</div>
 
 **Overview of our approach:**
 - **(1)** For a statement $k$, we generate 4 inputs by varying the [Selected Choice] and presence of context. The LLM is instructed to generate the completion based on the [Selected Choice].
