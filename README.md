@@ -6,7 +6,7 @@ Large Language Models (LLMs) often encode whether a statement is true as a vecto
 
 ## Overview
 
-![Introduction Figure](intro-figure.png)
+<img src="intro-figure.png" alt="Introduction Figure" width="650"/>
 
 **Overview of our approach:**
 - **(1)** For a statement $k$, we generate 4 inputs by varying the [Selected Choice] and presence of context. The LLM is instructed to generate the completion based on the [Selected Choice].
@@ -19,31 +19,19 @@ Large Language Models (LLMs) often encode whether a statement is true as a vecto
 how_context_shapes_truth/
 ├── activation_analysis/          # Analysis of truth vector transformations
 │   ├── create_dataset.py         # Dataset creation from activation data
-│   ├── random_shuffle_choices.py # Random choice shuffling for control experiments
+│   ├── random_shuffle_choices.py # Random choice shuffling 
 │   ├── theta_activations_vector_difference.py  # Theta angle calculations
 │   ├── theta_activations_ground_truth_metrics.py  # Ground truth-based metrics
 │   ├── theta_analysis_pipeline.py  # Complete pipeline for theta analysis
-│   ├── compare_baseline_random_types_ground_truth.py  # Baseline comparisons
+│   ├── compare_baseline_random_types_ground_truth.py  # Baseline vs Random comparisons
 │   ├── concatenate_baseline_random_comparisons_ground_truth.py  # Aggregating comparisons
 │   ├── ground_truth_utils.py     # Utilities for ground truth extraction
 │   └── logitlens/                # Logit lens analysis
-│       ├── logit_lens_analysis.py
-│       ├── plot_logit_lens_correlations_across_datasets.py
-│       └── plot_logit_lens_probabilities_across_datasets.py
 ├── datasets/                     # Dataset processing and data files
 │   ├── druid/                    # DRUID fact-checking dataset
-│   │   ├── *.csv                 # Processed dataset files
-│   │   └── borderlines_ground_truth.jsonl
 │   ├── conflictqa/               # ConflictQA dataset
-│   │   ├── *.csv
-│   │   └── conflictqa_rephrased_claims.jsonl
 │   ├── mf2/                      # MF2 movie fact dataset
-│   │   ├── *.csv
-│   │   └── mf2_dataset.json
 │   ├── legalbench/               # LegalBench datasets
-│   │   └── legalbench/
-│   │       └── corporate_lobbying/
-│   │           └── *.csv
 │   ├── druid_*.py                # DRUID dataset processing scripts
 │   ├── conflictqa_*.py           # ConflictQA processing scripts
 │   ├── mf2.py                    # MF2 dataset processing
@@ -55,26 +43,16 @@ how_context_shapes_truth/
 │   └── prompts/                  # Prompt templates for different datasets
 │       ├── druid/                # DRUID prompts (explicit/implicit)
 │       ├── conflictqa/           # ConflictQA prompts
-│       │   ├── counter/
-│       │   └── parametric/
 │       ├── mf2/                  # MF2 prompts
 │       ├── legalbench/           # LegalBench prompts
-│       │   ├── corporate_lobbying/
-│       │   └── privacyqa/
-│       └── gsm8k/                # GSM8K prompts (if used)
 ├── probing/                      # Probing experiments
-│   ├── modeling_lr.py            # Linear regression probing
+│   ├── modeling_lr.py            # Logistic regression probing
 │   ├── modeling_mlp.py           # MLP probing
-│   ├── modeling_mm.py            # Mixed model probing
+│   ├── modeling_mm.py            # Mass Mean probing
 │   ├── modeling_svm.py           # SVM probing
 │   ├── modeling_utils.py         # Shared utilities for probing
 │   ├── plot_all_probes.py        # Visualization of probing results
 │   └── configs/                  # Configuration files for probing experiments
-│       ├── modeling_lr.sh
-│       ├── modeling_mlp.sh
-│       ├── modeling_mm.sh
-│       ├── modeling_svm.sh
-│       └── plot_all_probes.sh
 ├── intro-figure.png              # Overview figure
 └── README.md                     # This file
 ```
