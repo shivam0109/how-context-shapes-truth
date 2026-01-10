@@ -1,0 +1,64 @@
+[Instruction]: You are given a [claim], [evidence], [choices], and [selected choice].
+Your task is to continue the text generation based on the [selected choice] by completing the [completion], first by generating a closing parenthesis, `)`, followed immediately by the verbatim [selected choice] ("True" or "False") and a period. After this prefix, provide a 3–4 sentence justification for the choice.
+The [evidence] field can be 'None' or contain few sentences.
+*CRITICAL FORMATTING RULE:* Your response for the [completion] **MUST** begin with a closing parenthesis
+*Correct Format Example:* `)True. [3-4 sentence justification here]`
+*This rule is mandatory* whether the [evidence] is provided or is 'None'.
+
+[Input]
+[claim]: <The ice caps were going to melt. They were going to be gone by now, but now they're setting records>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (A
+[completion]: )False. This claim is misleading because it's based on a strawman argument. The assertion that scientists predicted the ice caps would be completely "gone by now" is a common misrepresentation of climate projections. In reality, polar ice is indeed melting at record-setting rates, a fact that aligns with and confirms scientific warnings about a long-term, accelerating decline.
+<|eot_id|>
+
+[Input]
+[claim]: <Global warming is driving polar bears toward extinction>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. Polar bears rely on Arctic sea ice as their primary platform for hunting seals, and this critical habitat is rapidly diminishing due to global warming. The resulting shorter hunting seasons lead to malnutrition and population decline, placing the species on a path toward extinction.
+<|eot_id|>
+
+[Input]
+[claim]: <Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. Isotopic analysis confirms the rising CO₂ is from burning fossil fuels, and the amount is far too large to be within any measurement's margin of error. The oceans are also a net absorber—not a source—of CO₂, taking in about a quarter of human emissions.
+<|eot_id|>
+
+[Input]
+[claim]: <Scientists were caught 'adjusting' sea level data to create false impression of rising oceans>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (B
+[completion]: )True. Scientists do adjust raw sea level data to account for the vertical movement of the land on which tide gauges sit. This standard correction is a necessary step to filter out local geological effects and accurately calculate the change in the global sea level average.
+<|eot_id|>
+
+[Input]
+[claim]: <Peer-reviewed studies, geologic records, and all the studies have shown that we have actually cooled since the Roman Warming Period, and likely since the Medieval Warming Period.>
+[evidence]: <There have been regional climate events over the past 2,000 years, which can be seen in records of past climate. However, analysis of global temperatures for this time period shows that current warming is unique in its extent and has exceeded earlier temperatures.>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided evidence confirms that there have been regional climate events over the past 2,000 years. It also states that these events are visible in the records of past climate. The claim refers to such historical periods, and the evidence provided acknowledges their existence within the climate record.
+<|eot_id|>
+
+[Input]
+[claim]: <18 proxies tell us the world was the same or warmer 1,000 years ago>
+[evidence]: <Although periods of regional warming or cooling can be caused by natural variability (or events like volcanic eruptions), human-caused warming of the entire planet has led to the highest global temperatures of the last 2,000 years.>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. The evidence confirms that current global temperatures are the highest they have been in the last 2,000 years. Past warming events, like the one 1,000 years ago, were regional and not globally uniform like today's human-caused warming. Therefore, the claim that the world was warmer is incorrect.
+<|eot_id|>
+
+[Input]
+[claim]: <When the exact same group of 'experts' who claimed it was global cooling in 1977 now claim it's global warming you can easily see why I am skeptical>
+[evidence]: <This meme utilizes a widely circulated fake image purporting to show a 1977 Time magazine story titled "How To Survive The Coming Ice Age". The cover is actually from 2007, for a story titled "The Global Warming Survival Guide". While a claim of global cooling did appear a couple times in the 1970s in popular media, that did not reflect the understanding of climate scientists at the time.>
+[choice]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The claim is a statement about the origin of personal skepticism, which is an understandable reaction to the "global cooling" narrative. While the evidence confirms this narrative is based on misinformation, like a fake magazine cover, its circulation explains how a person could logically arrive at this doubt. Therefore, one can see why the perceived contradiction would lead to skepticism, even if the premise is false.
+<|eot_id|>
+
+[Input]

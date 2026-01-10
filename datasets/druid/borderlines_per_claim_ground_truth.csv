@@ -1,0 +1,463 @@
+claim,ground_truth
+abyei is a territory of south sudan,True
+abyei is a territory of sudan,True
+bassas da india is a territory of madagascar,True
+deir el aachayer is a territory of syria,True
+deir el aachayer is a territory of lebanon,True
+kfar qouq is a territory of syria,True
+mazraat deir al-ashayer is a territory of syria,True
+mazraat deir al-ashayer is a territory of lebanon,True
+qaa is a territory of lebanon,True
+qaa is a territory of syria,True
+qasr is a territory of lebanon,True
+europa island is a territory of madagascar,True
+qasr is a territory of syria,True
+tuffah is a territory of syria,True
+tuffah is a territory of lebanon,True
+shatt al-arab is a territory of iraq,True
+shatt al-arab is a territory of iran,True
+abu musa is a territory of iran,True
+abu musa is a territory of united arab emirates,True
+greater and lesser tunbs is a territory of united arab emirates,True
+greater and lesser tunbs is a territory of iran,True
+nagorno-karabakh region is a territory of azerbaijan,True
+europa island is a territory of france,True
+syunik province is a territory of azerbaijan,True
+syunik province is a territory of armenia,True
+azad kashmir is a territory of india,True
+azad kashmir is a territory of pakistan,True
+gilgit-baltistan is a territory of india,True
+gilgit-baltistan is a territory of pakistan,True
+jammu and kashmir is a territory of india,True
+jammu and kashmir is a territory of pakistan,True
+aksai chin is a territory of republic of china,True
+juan de nova island is a territory of france,True
+aksai chin is a territory of india,True
+aksai chin is a territory of china,True
+tawang is a territory of india,True
+arunachal pradesh is a territory of china,True
+arunachal pradesh is a territory of india,True
+david gareja monastery complex is a territory of georgia,True
+david gareja monastery complex is a territory of azerbaijan,True
+doi lang is a territory of myanmar,True
+juan de nova island is a territory of madagascar,True
+doi lang is a territory of thailand,True
+fasht ad dibal is a territory of qatar,True
+fasht ad dibal is a territory of bahrain,True
+qit'at jaradah is a territory of qatar,True
+qit'at jaradah is a territory of bahrain,True
+fergana valley is a territory of kyrgyzstan,True
+fergana valley is a territory of uzbekistan,True
+isfara valley is a territory of tajikistan,True
+isfara valley is a territory of kyrgyzstan,True
+ceuta is a territory of morocco,True
+ambalat is a territory of malaysia,True
+ambalat is a territory of indonesia,True
+kabaw is a territory of india,True
+kabaw is a territory of myanmar,True
+golan heights is a territory of lebanon,True
+golan heights is a territory of israel,True
+golan heights is a territory of syria,True
+green line is a territory of palestine,True
+green line is a territory of israel,True
+west bank is a territory of palestine,True
+ceuta is a territory of spain,True
+east jerusalem is a territory of israel,True
+east jerusalem is a territory of palestine,True
+kalapani is a territory of nepal,True
+susta river is a territory of nepal,True
+susta river is a territory of india,True
+antudanda is a territory of india,True
+antudanda is a territory of nepal,True
+nawalparasi is a territory of india,True
+melilla is a territory of spain,True
+nawalparasi is a territory of nepal,True
+artsvashen is a territory of armenia,True
+artsvashen is a territory of azerbaijan,True
+gegharkunik province is a territory of azerbaijan,True
+gegharkunik province is a territory of armenia,True
+karki is a territory of armenia,True
+karki is a territory of azerbaijan,True
+nakhichevan autonomous republic is a territory of azerbaijan,True
+nakhichevan autonomous republic is a territory of armenia,True
+yukhari askipara is a territory of azerbaijan,True
+melilla is a territory of morocco,True
+qazakh rayon is a territory of azerbaijan,True
+qazakh rayon is a territory of armenia,True
+yaradullu is a territory of azerbaijan,True
+yaradullu is a territory of armenia,True
+khuriya muriya islands is a territory of oman,True
+korean peninsula is a territory of north korea,True
+plazas de soberanía is a territory of morocco,True
+korean peninsula is a territory of south korea,True
+military demarcation line is a territory of north korea,True
+military demarcation line is a territory of south korea,True
+sakhalin/karafuto is a territory of russia,True
+sakhalin/karafuto is a territory of japan,True
+"kuril/chishima, and south kuril/chishima islands is a territory of japan",True
+"kuril/chishima, and south kuril/chishima islands is a territory of russia",True
+dokdo/takeshima is a territory of japan,True
+dokdo/takeshima is a territory of north korea,True
+dokdo/takeshima is a territory of south korea,True
+heglig is a territory of sudan,True
+plazas de soberanía is a territory of spain,True
+naf river is a territory of bangladesh,True
+naf river is a territory of myanmar,True
+noktundo is a territory of south korea,True
+noktundo is a territory of russia,True
+pedra branca is a territory of malaysia,True
+pedra branca is a territory of singapore,True
+singapore strait is a territory of malaysia,True
+singapore strait is a territory of singapore,True
+point 20 is a territory of malaysia,True
+point 20 is a territory of singapore,True
+chagos archipelago is a territory of united kingdom,True
+o'tangav is a territory of laos,True
+o'tangav is a territory of cambodia,True
+stung treng province is a territory of laos,True
+stung treng province is a territory of cambodia,True
+preah vihear temple is a territory of cambodia,True
+khao phra wihan is a territory of thailand,True
+khao phra wihan is a territory of cambodia,True
+qaruh is a territory of kuwait,True
+qaruh is a territory of saudi arabia,True
+chagos archipelago is a territory of mauritius,True
+umm al maradim is a territory of saudi arabia,True
+umm al maradim is a territory of kuwait,True
+sabah is a territory of malaysia,True
+sabah is a territory of philippines,True
+north borneo is a territory of philippines,True
+north borneo is a territory of malaysia,True
+siachen glacier is a territory of pakistan,True
+siachen glacier is a territory of india,True
+saltoro ridge is a territory of pakistan,True
+chagos archipelago is a territory of maldives,True
+sir creek is a territory of pakistan,True
+sir creek is a territory of india,True
+three pagodas pass is a territory of myanmar,True
+three pagodas pass is a territory of thailand,True
+ukatnyy is a territory of kazakhstan,True
+ukatnyy is a territory of russia,True
+zhestky is a territory of kazakhstan,True
+zhestky is a territory of russia,True
+malyy zhemchuzhnyy is a territory of kazakhstan,True
+malyy zhemchuzhnyy is a territory of russia,True
+ras doumeira is a territory of eritrea,True
+ungar-too is a territory of kyrgyzstan,True
+ungar-too is a territory of uzbekistan,True
+vozrozhdeniya island is a territory of kazakhstan,True
+vozrozhdeniya island is a territory of uzbekistan,True
+limbang district is a territory of malaysia,True
+limbang district is a territory of brunei,True
+tuzla island is a territory of malaysia,True
+tuzla island is a territory of brunei,True
+strait of kerch is a territory of brunei,True
+strait of kerch is a territory of malaysia,True
+ras doumeira is a territory of djibouti,True
+sarych is a territory of brunei,True
+sarych is a territory of malaysia,True
+sea of azov is a territory of brunei,True
+sea of azov is a territory of malaysia,True
+crimea is a territory of brunei,True
+crimea is a territory of malaysia,True
+imia/kardak is a territory of greece,True
+imia/kardak is a territory of turkey,True
+carlingford lough is a territory of united kingdom,True
+carlingford lough is a territory of ireland,True
+doumeira island is a territory of eritrea,True
+lough foyle is a territory of united kingdom,True
+lough foyle is a territory of ireland,True
+gibraltar is a territory of united kingdom,True
+gibraltar is a territory of spain,True
+rockall is a territory of united kingdom,True
+rockall is a territory of iceland,True
+rockall is a territory of ireland,True
+rockall is a territory of denmark,True
+dollart bay is a territory of germany,True
+dollart bay is a territory of netherlands,True
+doumeira island is a territory of djibouti,True
+lake constance is a territory of austria,True
+lake constance is a territory of germany,True
+olivenza is a territory of spain,True
+olivenza is a territory of portugal,True
+vila real is a territory of spain,True
+vila real is a territory of portugal,True
+táliga is a territory of portugal,True
+táliga is a territory of spain,True
+island of šarengrad is a territory of spain,True
+glorioso islands is a territory of madagascar,True
+island of šarengrad is a territory of portugal,True
+island of vukovar is a territory of portugal,True
+island of vukovar is a territory of spain,True
+gulf of piran is a territory of spain,True
+gulf of piran is a territory of portugal,True
+sveta gera is a territory of spain,True
+prevlaka is a territory of montenegro,True
+prevlaka is a territory of croatia,True
+sastavci is a territory of serbia,True
+glorioso islands is a territory of france,True
+sastavci is a territory of bosnia and herzegovina,True
+klek peninsula is a territory of bosnia and herzegovina,True
+klek peninsula is a territory of croatia,True
+veliki školj is a territory of croatia,True
+veliki školj is a territory of bosnia and herzegovina,True
+mali školj is a territory of bosnia and herzegovina,True
+neum is a territory of croatia,True
+neum is a territory of bosnia and herzegovina,True
+bousignies-sur-roc is a territory of belgium,True
+heglig is a territory of south sudan,True
+glorioso islands is a territory of comoros,True
+bousignies-sur-roc is a territory of france,True
+aves island is a territory of dominica,True
+aves island is a territory of venezuela,True
+bajo nuevo bank is a territory of united states,True
+bajo nuevo bank is a territory of colombia,True
+conejo island is a territory of el salvador,True
+conejo island is a territory of honduras,True
+navassa island is a territory of haiti,True
+hala'ib triangle is a territory of sudan,True
+navassa island is a territory of united states,True
+sapodilla cay is a territory of belize,True
+sapodilla cay is a territory of honduras,True
+sapodilla cay is a territory of guatemala,True
+serranilla bank is a territory of nicaragua,True
+serranilla bank is a territory of colombia,True
+serranilla bank is a territory of honduras,True
+serranilla bank is a territory of united states,True
+hans island is a territory of greenland,True
+hans island is a territory of denmark,True
+hala'ib triangle is a territory of egypt,True
+hans island is a territory of canada,True
+matthew and hunter islands is a territory of france,True
+matthew and hunter islands is a territory of vanuatu,True
+minerva reefs is a territory of tonga,True
+minerva reefs is a territory of fiji,True
+swains island is a territory of united states,True
+swains island is a territory of tokelau,True
+wake island is a territory of united states,True
+wake island is a territory of marshall islands,True
+guayana esequiba is a territory of guyana,True
+ilemi triangle is a territory of kenya,True
+guayana esequiba is a territory of venezuela,True
+essequibo river is a territory of venezuela,True
+essequibo river is a territory of guyana,True
+ankoko island/isla de anacoco is a territory of venezuela,True
+ankoko island/isla de anacoco is a territory of guyana,True
+arroyo de la invernada is a territory of brazil,True
+arroyo de la invernada is a territory of uruguay,True
+rincón de artigas is a territory of uruguay,True
+vila albornoz is a territory of uruguay,True
+ilemi triangle is a territory of south sudan,True
+falkland islands is a territory of argentina,True
+falkland islands is a territory of united kingdom,True
+south georgia and the south sandwich islands is a territory of united kingdom,True
+south georgia and the south sandwich islands is a territory of argentina,True
+french guiana is a territory of suriname,True
+french guiana is a territory of france,True
+marouini river is a territory of suriname,True
+marouini river is a territory of france,True
+tigri area is a territory of suriname,True
+kangwane is a territory of eswatini,True
+tigri area is a territory of guyana,True
+courantyne river is a territory of suriname,True
+courantyne river is a territory of guyana,True
+isla brasilera/ilha brasileira is a territory of uruguay,True
+isla brasilera/ilha brasileira is a territory of brazil,True
+isla suárez/ilha de guajará-mirim is a territory of brazil,True
+gulf of venezuela is a territory of colombia,True
+gulf of venezuela is a territory of venezuela,True
+los monjes archipelago is a territory of colombia,True
+kangwane is a territory of south africa,True
+los monjes archipelago is a territory of venezuela,True
+southern patagonian ice field is a territory of argentina,True
+southern patagonian ice field is a territory of chile,True
+monte fitz roy is a territory of argentina,True
+monte fitz roy is a territory of chile,True
+cerro murallón is a territory of argentina,True
+bakassi is a territory of cameroon,True
+bakassi is a territory of nigeria,True
+bhutanese enclaves is a territory of republic of china,True
+ingwavuma is a territory of eswatini,True
+bhutanese enclaves is a territory of people's republic of china,True
+bhutanese enclaves is a territory of bhutan,True
+darchen is a territory of people's republic of china,True
+darchen is a territory of bhutan,True
+doklam is a territory of republic of china,True
+doklam is a territory of people's republic of china,True
+doklam is a territory of bhutan,True
+demchok sector is a territory of people's republic of china,True
+demchok sector is a territory of india,True
+ingwavuma is a territory of south africa,True
+demchok sector is a territory of republic of china,True
+depsang plains is a territory of people's republic of china,True
+depsang plains is a territory of republic of china,True
+depsang plains is a territory of india,True
+chumar is a territory of people's republic of china,True
+chumar is a territory of republic of china,True
+chumar is a territory of india,True
+kaurik is a territory of republic of china,True
+koalou is a territory of burkina faso,True
+shipki la is a territory of people's republic of china,True
+shipki la is a territory of india,True
+shipki la is a territory of republic of china,True
+barahoti is a territory of india,True
+barahoti is a territory of people's republic of china,True
+jadhang is a territory of republic of china,True
+jadhang is a territory of people's republic of china,True
+jadhang is a territory of india,True
+lapthal is a territory of republic of china,True
+kafia kingi is a territory of sudan,True
+lapthal is a territory of india,True
+lapthal is a territory of people's republic of china,True
+nelang is a territory of people's republic of china,True
+nelang is a territory of india,True
+nelang is a territory of republic of china,True
+pulam sumda is a territory of india,True
+sang is a territory of india,True
+sipilou is a territory of ivory coast,True
+james shoal is a territory of malaysia,True
+james shoal is a territory of republic of china,True
+james shoal is a territory of people's republic of china,True
+macclesfield bank is a territory of philippines,True
+macclesfield bank is a territory of people's republic of china,True
+mainland china is a territory of people's republic of china,True
+mainland china is a territory of republic of china,True
+hainan is a territory of people's republic of china,True
+sipilou is a territory of guinea,True
+hainan is a territory of republic of china,True
+heixiazi is a territory of people's republic of china,True
+heixiazi is a territory of russia,True
+heixiazi is a territory of republic of china,True
+bolshoy ussuriysky island is a territory of republic of china,True
+bolshoy ussuriysky island is a territory of people's republic of china,True
+bolshoy ussuriysky island is a territory of russia,True
+hong kong is a territory of republic of china,True
+jiangxinpo is a territory of myanmar,True
+logoba is a territory of uganda,True
+jiangxinpo is a territory of republic of china,True
+kosovo is a territory of republic of kosovo,True
+kula kangri is a territory of republic of china,True
+kula kangri is a territory of bhutan,True
+haa district is a territory of republic of china,True
+haa district is a territory of bhutan,True
+kutuzov island is a territory of republic of china,True
+logoba is a territory of south sudan,True
+kutuzov island is a territory of russia,True
+macau is a territory of people's republic of china,True
+macau is a territory of republic of china,True
+natuna islands is a territory of republic of china,True
+natuna islands is a territory of people's republic of china,True
+natuna islands is a territory of indonesia,True
+ladakh is a territory of india,True
+ladakh is a territory of pakistan,True
+outer mongolia is a territory of mongolia,True
+outer mongolia is a territory of republic of china,True
+moyo district is a territory of uganda,True
+pamir mountains is a territory of tajikistan,True
+pamir mountains is a territory of republic of china,True
+pamir mountains is a territory of people's republic of china,True
+paracel islands is a territory of people's republic of china,True
+paracel islands is a territory of republic of china,True
+paracel islands is a territory of vietnam,True
+ryanggang province is a territory of republic of china,True
+ryanggang province is a territory of south korea,True
+ryanggang province is a territory of north korea,True
+rasŏn administrative division is a territory of republic of china,True
+moyo district is a territory of south sudan,True
+rasŏn administrative division is a territory of north korea,True
+rasŏn administrative division is a territory of south korea,True
+scarborough shoal is a territory of philippines,True
+scarborough shoal is a territory of republic of china,True
+scarborough shoal is a territory of people's republic of china,True
+senkaku islands is a territory of japan,True
+senkaku islands is a territory of people's republic of china,True
+senkaku islands is a territory of republic of china,True
+shaksgam valley is a territory of republic of china,True
+chiengi is a territory of zambia,True
+shaksgam valley is a territory of india,True
+sixty-four villages east of the heilongjiang river is a territory of russia,True
+sixty-four villages east of the heilongjiang river is a territory of republic of china,True
+south tibet is a territory of india,True
+south tibet is a territory of people's republic of china,True
+south tibet is a territory of republic of china,True
+spratly islands is a territory of malaysia,True
+spratly islands is a territory of people's republic of china,True
+spratly islands is a territory of philippines,True
+spratly islands is a territory of brunei,True
+chiengi is a territory of democratic republic of congo,True
+spratly islands is a territory of republic of china,True
+spratly islands is a territory of vietnam,True
+taiwan is a territory of people's republic of china,True
+taiwan is a territory of republic of china,True
+penghu is a territory of republic of china,True
+penghu is a territory of people's republic of china,True
+kinmen is a territory of republic of china,True
+kinmen is a territory of people's republic of china,True
+matsu islands is a territory of republic of china,True
+matsu islands is a territory of people's republic of china,True
+lunchinda-pweto province is a territory of democratic republic of congo,True
+pratas island is a territory of people's republic of china,True
+pratas island is a territory of republic of china,True
+trans-karakoram tracts is a territory of republic of china,True
+trans-karakoram tracts is a territory of people's republic of china,True
+trans-karakoram tracts is a territory of india,True
+tuva is a territory of russia,True
+tuva is a territory of republic of china,True
+wakhan corridor is a territory of islamic republic of afghanistan,True
+wakhan corridor is a territory of republic of china,True
+yalu river is a territory of south korea,True
+kafia kingi is a territory of south sudan,True
+lunchinda-pweto province is a territory of zambia,True
+yalu river is a territory of north korea,True
+yalu river is a territory of people's republic of china,True
+mayotte is a territory of france,True
+mayotte is a territory of comoros,True
+mbamba bay is a territory of tanzania,True
+mbamba bay is a territory of malawi,True
+lake nyasa is a territory of malawi,True
+lake nyasa is a territory of tanzania,True
+mbañie island is a territory of equatorial guinea,True
+mbañie island is a territory of gabon,True
+cocotiers is a territory of equatorial guinea,True
+banc du geyser is a territory of madagascar,True
+cocotiers is a territory of gabon,True
+congas island is a territory of equatorial guinea,True
+congas island is a territory of gabon,True
+migingo island is a territory of kenya,True
+migingo island is a territory of uganda,True
+lolwe is a territory of kenya,True
+lolwe is a territory of uganda,True
+oyasi is a territory of uganda,True
+remba is a territory of uganda,True
+banc du geyser is a territory of france,True
+remba is a territory of kenya,True
+ringiti is a territory of uganda,True
+ringiti is a territory of kenya,True
+sigulu is a territory of kenya,True
+sigulu is a territory of uganda,True
+lake victoria is a territory of uganda,True
+congo river is a territory of republic of the congo,True
+congo river is a territory of democratic republic of congo,True
+ntem river is a territory of equatorial guinea,True
+banc du geyser is a territory of comoros,True
+ntem river is a territory of cameroon,True
+okpara river is a territory of nigeria,True
+okpara river is a territory of benin,True
+orange river is a territory of south africa,True
+orange river is a territory of namibia,True
+rukwanzi island is a territory of democratic republic of congo,True
+rukwanzi island is a territory of uganda,True
+semliki river is a territory of uganda,True
+semliki river is a territory of democratic republic of congo,True
+sindabezi island is a territory of zimbabwe,True
+bassas da india is a territory of france,True
+sindabezi island is a territory of zambia,True
+socotra archipelago is a territory of somalia,True
+socotra archipelago is a territory of yemen,True
+tromelin island is a territory of mauritius,True
+tromelin island is a territory of france,True
+wadi halfa is a territory of sudan,True
+wadi halfa is a territory of egypt,True
+ashmore and cartier islands is a territory of australia,True
+ashmore and cartier islands is a territory of indonesia,True
+aarsal is a territory of syria,True

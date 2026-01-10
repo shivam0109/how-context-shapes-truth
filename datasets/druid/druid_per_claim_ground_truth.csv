@@ -1,0 +1,832 @@
+claim,ground_truth
+abyei is a territory of south sudan,True
+abyei is a territory of sudan,True
+bassas da india is a territory of madagascar,True
+deir el aachayer is a territory of syria,True
+deir el aachayer is a territory of lebanon,True
+kfar qouq is a territory of syria,True
+mazraat deir al-ashayer is a territory of syria,True
+mazraat deir al-ashayer is a territory of lebanon,True
+qaa is a territory of lebanon,True
+qaa is a territory of syria,True
+qasr is a territory of lebanon,True
+europa island is a territory of madagascar,True
+qasr is a territory of syria,True
+tuffah is a territory of syria,True
+tuffah is a territory of lebanon,True
+shatt al-arab is a territory of iraq,True
+shatt al-arab is a territory of iran,True
+abu musa is a territory of iran,True
+abu musa is a territory of united arab emirates,True
+greater and lesser tunbs is a territory of united arab emirates,True
+greater and lesser tunbs is a territory of iran,True
+nagorno-karabakh region is a territory of azerbaijan,True
+europa island is a territory of france,True
+syunik province is a territory of azerbaijan,True
+syunik province is a territory of armenia,True
+azad kashmir is a territory of india,True
+azad kashmir is a territory of pakistan,True
+gilgit-baltistan is a territory of india,True
+gilgit-baltistan is a territory of pakistan,True
+jammu and kashmir is a territory of india,True
+jammu and kashmir is a territory of pakistan,True
+aksai chin is a territory of republic of china,True
+juan de nova island is a territory of france,True
+aksai chin is a territory of india,True
+aksai chin is a territory of china,True
+tawang is a territory of india,True
+arunachal pradesh is a territory of china,True
+arunachal pradesh is a territory of india,True
+david gareja monastery complex is a territory of georgia,True
+david gareja monastery complex is a territory of azerbaijan,True
+doi lang is a territory of myanmar,True
+juan de nova island is a territory of madagascar,True
+doi lang is a territory of thailand,True
+fasht ad dibal is a territory of qatar,True
+fasht ad dibal is a territory of bahrain,True
+qit'at jaradah is a territory of qatar,True
+qit'at jaradah is a territory of bahrain,True
+fergana valley is a territory of kyrgyzstan,True
+fergana valley is a territory of uzbekistan,True
+isfara valley is a territory of tajikistan,True
+isfara valley is a territory of kyrgyzstan,True
+ceuta is a territory of morocco,True
+ambalat is a territory of malaysia,True
+ambalat is a territory of indonesia,True
+kabaw is a territory of india,True
+kabaw is a territory of myanmar,True
+golan heights is a territory of lebanon,True
+golan heights is a territory of israel,True
+golan heights is a territory of syria,True
+green line is a territory of palestine,True
+green line is a territory of israel,True
+west bank is a territory of palestine,True
+ceuta is a territory of spain,True
+east jerusalem is a territory of israel,True
+east jerusalem is a territory of palestine,True
+kalapani is a territory of nepal,True
+susta river is a territory of nepal,True
+susta river is a territory of india,True
+antudanda is a territory of india,True
+antudanda is a territory of nepal,True
+nawalparasi is a territory of india,True
+melilla is a territory of spain,True
+nawalparasi is a territory of nepal,True
+artsvashen is a territory of armenia,True
+artsvashen is a territory of azerbaijan,True
+gegharkunik province is a territory of azerbaijan,True
+gegharkunik province is a territory of armenia,True
+karki is a territory of armenia,True
+karki is a territory of azerbaijan,True
+nakhichevan autonomous republic is a territory of azerbaijan,True
+nakhichevan autonomous republic is a territory of armenia,True
+yukhari askipara is a territory of azerbaijan,True
+melilla is a territory of morocco,True
+qazakh rayon is a territory of azerbaijan,True
+qazakh rayon is a territory of armenia,True
+yaradullu is a territory of azerbaijan,True
+yaradullu is a territory of armenia,True
+khuriya muriya islands is a territory of oman,True
+korean peninsula is a territory of north korea,True
+plazas de soberanía is a territory of morocco,True
+korean peninsula is a territory of south korea,True
+military demarcation line is a territory of north korea,True
+military demarcation line is a territory of south korea,True
+sakhalin/karafuto is a territory of russia,True
+sakhalin/karafuto is a territory of japan,True
+"kuril/chishima, and south kuril/chishima islands is a territory of japan",True
+"kuril/chishima, and south kuril/chishima islands is a territory of russia",True
+dokdo/takeshima is a territory of japan,True
+dokdo/takeshima is a territory of north korea,True
+dokdo/takeshima is a territory of south korea,True
+heglig is a territory of sudan,True
+plazas de soberanía is a territory of spain,True
+naf river is a territory of bangladesh,True
+naf river is a territory of myanmar,True
+noktundo is a territory of south korea,True
+noktundo is a territory of russia,True
+pedra branca is a territory of malaysia,True
+pedra branca is a territory of singapore,True
+singapore strait is a territory of malaysia,True
+singapore strait is a territory of singapore,True
+point 20 is a territory of malaysia,True
+point 20 is a territory of singapore,True
+chagos archipelago is a territory of united kingdom,True
+o'tangav is a territory of laos,True
+o'tangav is a territory of cambodia,True
+stung treng province is a territory of laos,True
+stung treng province is a territory of cambodia,True
+preah vihear temple is a territory of cambodia,True
+khao phra wihan is a territory of thailand,True
+khao phra wihan is a territory of cambodia,True
+qaruh is a territory of kuwait,True
+qaruh is a territory of saudi arabia,True
+chagos archipelago is a territory of mauritius,True
+umm al maradim is a territory of saudi arabia,True
+umm al maradim is a territory of kuwait,True
+sabah is a territory of malaysia,True
+sabah is a territory of philippines,True
+north borneo is a territory of philippines,True
+north borneo is a territory of malaysia,True
+siachen glacier is a territory of pakistan,True
+siachen glacier is a territory of india,True
+saltoro ridge is a territory of pakistan,True
+chagos archipelago is a territory of maldives,True
+sir creek is a territory of pakistan,True
+sir creek is a territory of india,True
+three pagodas pass is a territory of myanmar,True
+three pagodas pass is a territory of thailand,True
+ukatnyy is a territory of kazakhstan,True
+ukatnyy is a territory of russia,True
+zhestky is a territory of kazakhstan,True
+zhestky is a territory of russia,True
+malyy zhemchuzhnyy is a territory of kazakhstan,True
+malyy zhemchuzhnyy is a territory of russia,True
+ras doumeira is a territory of eritrea,True
+ungar-too is a territory of kyrgyzstan,True
+ungar-too is a territory of uzbekistan,True
+vozrozhdeniya island is a territory of kazakhstan,True
+vozrozhdeniya island is a territory of uzbekistan,True
+limbang district is a territory of malaysia,True
+limbang district is a territory of brunei,True
+tuzla island is a territory of malaysia,True
+tuzla island is a territory of brunei,True
+strait of kerch is a territory of brunei,True
+strait of kerch is a territory of malaysia,True
+ras doumeira is a territory of djibouti,True
+sarych is a territory of brunei,True
+sarych is a territory of malaysia,True
+sea of azov is a territory of brunei,True
+sea of azov is a territory of malaysia,True
+crimea is a territory of brunei,True
+crimea is a territory of malaysia,True
+imia/kardak is a territory of greece,True
+imia/kardak is a territory of turkey,True
+carlingford lough is a territory of united kingdom,True
+carlingford lough is a territory of ireland,True
+doumeira island is a territory of eritrea,True
+lough foyle is a territory of united kingdom,True
+lough foyle is a territory of ireland,True
+gibraltar is a territory of united kingdom,True
+gibraltar is a territory of spain,True
+rockall is a territory of united kingdom,True
+rockall is a territory of iceland,True
+rockall is a territory of ireland,True
+rockall is a territory of denmark,True
+dollart bay is a territory of germany,True
+dollart bay is a territory of netherlands,True
+doumeira island is a territory of djibouti,True
+lake constance is a territory of austria,True
+lake constance is a territory of germany,True
+olivenza is a territory of spain,True
+olivenza is a territory of portugal,True
+vila real is a territory of spain,True
+vila real is a territory of portugal,True
+táliga is a territory of portugal,True
+táliga is a territory of spain,True
+island of šarengrad is a territory of spain,True
+glorioso islands is a territory of madagascar,True
+island of šarengrad is a territory of portugal,True
+island of vukovar is a territory of portugal,True
+island of vukovar is a territory of spain,True
+gulf of piran is a territory of spain,True
+gulf of piran is a territory of portugal,True
+sveta gera is a territory of spain,True
+prevlaka is a territory of montenegro,True
+prevlaka is a territory of croatia,True
+sastavci is a territory of serbia,True
+glorioso islands is a territory of france,True
+sastavci is a territory of bosnia and herzegovina,True
+klek peninsula is a territory of bosnia and herzegovina,True
+klek peninsula is a territory of croatia,True
+veliki školj is a territory of croatia,True
+veliki školj is a territory of bosnia and herzegovina,True
+mali školj is a territory of bosnia and herzegovina,True
+neum is a territory of croatia,True
+neum is a territory of bosnia and herzegovina,True
+bousignies-sur-roc is a territory of belgium,True
+heglig is a territory of south sudan,True
+glorioso islands is a territory of comoros,True
+bousignies-sur-roc is a territory of france,True
+aves island is a territory of dominica,True
+aves island is a territory of venezuela,True
+bajo nuevo bank is a territory of united states,True
+bajo nuevo bank is a territory of colombia,True
+conejo island is a territory of el salvador,True
+conejo island is a territory of honduras,True
+navassa island is a territory of haiti,True
+hala'ib triangle is a territory of sudan,True
+navassa island is a territory of united states,True
+sapodilla cay is a territory of belize,True
+sapodilla cay is a territory of honduras,True
+sapodilla cay is a territory of guatemala,True
+serranilla bank is a territory of nicaragua,True
+serranilla bank is a territory of colombia,True
+serranilla bank is a territory of honduras,True
+serranilla bank is a territory of united states,True
+hans island is a territory of greenland,True
+hans island is a territory of denmark,True
+hala'ib triangle is a territory of egypt,True
+hans island is a territory of canada,True
+matthew and hunter islands is a territory of france,True
+matthew and hunter islands is a territory of vanuatu,True
+minerva reefs is a territory of tonga,True
+minerva reefs is a territory of fiji,True
+swains island is a territory of united states,True
+swains island is a territory of tokelau,True
+wake island is a territory of united states,True
+wake island is a territory of marshall islands,True
+guayana esequiba is a territory of guyana,True
+ilemi triangle is a territory of kenya,True
+guayana esequiba is a territory of venezuela,True
+essequibo river is a territory of venezuela,True
+essequibo river is a territory of guyana,True
+ankoko island/isla de anacoco is a territory of venezuela,True
+ankoko island/isla de anacoco is a territory of guyana,True
+arroyo de la invernada is a territory of brazil,True
+arroyo de la invernada is a territory of uruguay,True
+rincón de artigas is a territory of uruguay,True
+vila albornoz is a territory of uruguay,True
+ilemi triangle is a territory of south sudan,True
+falkland islands is a territory of argentina,True
+falkland islands is a territory of united kingdom,True
+south georgia and the south sandwich islands is a territory of united kingdom,True
+south georgia and the south sandwich islands is a territory of argentina,True
+french guiana is a territory of suriname,True
+french guiana is a territory of france,True
+marouini river is a territory of suriname,True
+marouini river is a territory of france,True
+tigri area is a territory of suriname,True
+kangwane is a territory of eswatini,True
+tigri area is a territory of guyana,True
+courantyne river is a territory of suriname,True
+courantyne river is a territory of guyana,True
+isla brasilera/ilha brasileira is a territory of uruguay,True
+isla brasilera/ilha brasileira is a territory of brazil,True
+isla suárez/ilha de guajará-mirim is a territory of brazil,True
+gulf of venezuela is a territory of colombia,True
+gulf of venezuela is a territory of venezuela,True
+los monjes archipelago is a territory of colombia,True
+kangwane is a territory of south africa,True
+los monjes archipelago is a territory of venezuela,True
+southern patagonian ice field is a territory of argentina,True
+southern patagonian ice field is a territory of chile,True
+monte fitz roy is a territory of argentina,True
+monte fitz roy is a territory of chile,True
+cerro murallón is a territory of argentina,True
+bakassi is a territory of cameroon,True
+bakassi is a territory of nigeria,True
+bhutanese enclaves is a territory of republic of china,True
+ingwavuma is a territory of eswatini,True
+bhutanese enclaves is a territory of people's republic of china,True
+bhutanese enclaves is a territory of bhutan,True
+darchen is a territory of people's republic of china,True
+darchen is a territory of bhutan,True
+doklam is a territory of republic of china,True
+doklam is a territory of people's republic of china,True
+doklam is a territory of bhutan,True
+demchok sector is a territory of people's republic of china,True
+demchok sector is a territory of india,True
+ingwavuma is a territory of south africa,True
+demchok sector is a territory of republic of china,True
+depsang plains is a territory of people's republic of china,True
+depsang plains is a territory of republic of china,True
+depsang plains is a territory of india,True
+chumar is a territory of people's republic of china,True
+chumar is a territory of republic of china,True
+chumar is a territory of india,True
+kaurik is a territory of republic of china,True
+koalou is a territory of burkina faso,True
+shipki la is a territory of people's republic of china,True
+shipki la is a territory of india,True
+shipki la is a territory of republic of china,True
+barahoti is a territory of india,True
+barahoti is a territory of people's republic of china,True
+jadhang is a territory of republic of china,True
+jadhang is a territory of people's republic of china,True
+jadhang is a territory of india,True
+lapthal is a territory of republic of china,True
+kafia kingi is a territory of sudan,True
+lapthal is a territory of india,True
+lapthal is a territory of people's republic of china,True
+nelang is a territory of people's republic of china,True
+nelang is a territory of india,True
+nelang is a territory of republic of china,True
+pulam sumda is a territory of india,True
+sang is a territory of india,True
+sipilou is a territory of ivory coast,True
+james shoal is a territory of malaysia,True
+james shoal is a territory of republic of china,True
+james shoal is a territory of people's republic of china,True
+macclesfield bank is a territory of philippines,True
+macclesfield bank is a territory of people's republic of china,True
+mainland china is a territory of people's republic of china,True
+mainland china is a territory of republic of china,True
+hainan is a territory of people's republic of china,True
+sipilou is a territory of guinea,True
+hainan is a territory of republic of china,True
+heixiazi is a territory of people's republic of china,True
+heixiazi is a territory of russia,True
+heixiazi is a territory of republic of china,True
+bolshoy ussuriysky island is a territory of republic of china,True
+bolshoy ussuriysky island is a territory of people's republic of china,True
+bolshoy ussuriysky island is a territory of russia,True
+hong kong is a territory of republic of china,True
+jiangxinpo is a territory of myanmar,True
+logoba is a territory of uganda,True
+jiangxinpo is a territory of republic of china,True
+kosovo is a territory of republic of kosovo,True
+kula kangri is a territory of republic of china,True
+kula kangri is a territory of bhutan,True
+haa district is a territory of republic of china,True
+haa district is a territory of bhutan,True
+kutuzov island is a territory of republic of china,True
+logoba is a territory of south sudan,True
+kutuzov island is a territory of russia,True
+macau is a territory of people's republic of china,True
+macau is a territory of republic of china,True
+natuna islands is a territory of republic of china,True
+natuna islands is a territory of people's republic of china,True
+natuna islands is a territory of indonesia,True
+ladakh is a territory of india,True
+ladakh is a territory of pakistan,True
+outer mongolia is a territory of mongolia,True
+outer mongolia is a territory of republic of china,True
+moyo district is a territory of uganda,True
+pamir mountains is a territory of tajikistan,True
+pamir mountains is a territory of republic of china,True
+pamir mountains is a territory of people's republic of china,True
+paracel islands is a territory of people's republic of china,True
+paracel islands is a territory of republic of china,True
+paracel islands is a territory of vietnam,True
+ryanggang province is a territory of republic of china,True
+ryanggang province is a territory of south korea,True
+ryanggang province is a territory of north korea,True
+rasŏn administrative division is a territory of republic of china,True
+moyo district is a territory of south sudan,True
+rasŏn administrative division is a territory of north korea,True
+rasŏn administrative division is a territory of south korea,True
+scarborough shoal is a territory of philippines,True
+scarborough shoal is a territory of republic of china,True
+scarborough shoal is a territory of people's republic of china,True
+senkaku islands is a territory of japan,True
+senkaku islands is a territory of people's republic of china,True
+senkaku islands is a territory of republic of china,True
+shaksgam valley is a territory of republic of china,True
+chiengi is a territory of zambia,True
+shaksgam valley is a territory of india,True
+sixty-four villages east of the heilongjiang river is a territory of russia,True
+sixty-four villages east of the heilongjiang river is a territory of republic of china,True
+south tibet is a territory of india,True
+south tibet is a territory of people's republic of china,True
+south tibet is a territory of republic of china,True
+spratly islands is a territory of malaysia,True
+spratly islands is a territory of people's republic of china,True
+spratly islands is a territory of philippines,True
+spratly islands is a territory of brunei,True
+chiengi is a territory of democratic republic of congo,True
+spratly islands is a territory of republic of china,True
+spratly islands is a territory of vietnam,True
+taiwan is a territory of people's republic of china,True
+taiwan is a territory of republic of china,True
+penghu is a territory of republic of china,True
+penghu is a territory of people's republic of china,True
+kinmen is a territory of republic of china,True
+kinmen is a territory of people's republic of china,True
+matsu islands is a territory of republic of china,True
+matsu islands is a territory of people's republic of china,True
+lunchinda-pweto province is a territory of democratic republic of congo,True
+pratas island is a territory of people's republic of china,True
+pratas island is a territory of republic of china,True
+trans-karakoram tracts is a territory of republic of china,True
+trans-karakoram tracts is a territory of people's republic of china,True
+trans-karakoram tracts is a territory of india,True
+tuva is a territory of russia,True
+tuva is a territory of republic of china,True
+wakhan corridor is a territory of islamic republic of afghanistan,True
+wakhan corridor is a territory of republic of china,True
+yalu river is a territory of south korea,True
+kafia kingi is a territory of south sudan,True
+lunchinda-pweto province is a territory of zambia,True
+yalu river is a territory of north korea,True
+yalu river is a territory of people's republic of china,True
+mayotte is a territory of france,True
+mayotte is a territory of comoros,True
+mbamba bay is a territory of tanzania,True
+mbamba bay is a territory of malawi,True
+lake nyasa is a territory of malawi,True
+lake nyasa is a territory of tanzania,True
+mbañie island is a territory of equatorial guinea,True
+mbañie island is a territory of gabon,True
+cocotiers is a territory of equatorial guinea,True
+banc du geyser is a territory of madagascar,True
+cocotiers is a territory of gabon,True
+congas island is a territory of equatorial guinea,True
+congas island is a territory of gabon,True
+migingo island is a territory of kenya,True
+migingo island is a territory of uganda,True
+lolwe is a territory of kenya,True
+lolwe is a territory of uganda,True
+oyasi is a territory of uganda,True
+remba is a territory of uganda,True
+banc du geyser is a territory of france,True
+remba is a territory of kenya,True
+ringiti is a territory of uganda,True
+ringiti is a territory of kenya,True
+sigulu is a territory of kenya,True
+sigulu is a territory of uganda,True
+lake victoria is a territory of uganda,True
+congo river is a territory of republic of the congo,True
+congo river is a territory of democratic republic of congo,True
+ntem river is a territory of equatorial guinea,True
+banc du geyser is a territory of comoros,True
+ntem river is a territory of cameroon,True
+okpara river is a territory of nigeria,True
+okpara river is a territory of benin,True
+orange river is a territory of south africa,True
+orange river is a territory of namibia,True
+rukwanzi island is a territory of democratic republic of congo,True
+rukwanzi island is a territory of uganda,True
+semliki river is a territory of uganda,True
+semliki river is a territory of democratic republic of congo,True
+sindabezi island is a territory of zimbabwe,True
+bassas da india is a territory of france,True
+sindabezi island is a territory of zambia,True
+socotra archipelago is a territory of somalia,True
+socotra archipelago is a territory of yemen,True
+tromelin island is a territory of mauritius,True
+tromelin island is a territory of france,True
+wadi halfa is a territory of sudan,True
+wadi halfa is a territory of egypt,True
+ashmore and cartier islands is a territory of australia,True
+ashmore and cartier islands is a territory of indonesia,True
+aarsal is a territory of syria,True
+"former president donald trump ""intends to enact what, in effect, is a national sales tax ... that would raise prices on middle-class families by almost $4,000 a year.""",True
+former president donald trump is “against mail in voting.”,True
+“candace owens vows to have taylor swift banned from next nfl season.”,False
+"“there is a direct connection between discriminatory policies within the usda and the enormous land loss we have seen among black farmers over the past century.""",True
+"""in the wisconsin state assembly this session, more than 75% of gop bills received a public hearing. meanwhile, the gop allowed less than 2% of democratic bills to have a hearing.""",True
+all men aged 18 to 26 “have been automatically registered in the u.s. army.”,False
+“caitlin clark rejects $400 million deal from nike” saying “not with that kaepernick clown.’”,False
+"california assembly bill 1955 “would allow schools to secretly, socially and perhaps medically transition your child without your knowledge and consent.""",False
+“caitlin clark has officially joined the canadian women's olympic team.”,False
+cristiano ronaldo was the only european soccer captain who did not wear a rainbow armband at euro 2020.,False
+the trump administration “achieved the lowest african american unemployment rate and the lowest african american poverty rate ever recorded.”,True
+crime statistics “no longer include data from 30% of the country including the biggest and most violent cities.”,False
+the 9th circuit court of appeals “just ruled covid vax mandates unconstitutional.”,False
+"""apple is … about to start charging us to use the facetime feature.”",False
+"pittsburgh steelers coach “directs team to not participate in pride month” calling it ""woke crap""",False
+"""trump can’t be on the texas ballot because of our state constitution.""",False
+fuddruckers is “closing all locations.”,False
+"""the last administration oversaw the largest increase in murders ever recorded.""",True
+kansas city chiefs said they refuse to participate in pride month because ‘it’s extremely woke.’,False
+"harpercollins “removed 64,575 words from the bible.”",False
+says sen. lindsey graham said a newly elected donald trump “will round up and deport legal immigrants.”,False
+audio of president joe biden’s interview with special counsel robert hur leaked.,False
+“wage increases have exceeded” the cost of inflation.,True
+“james woods leaves hollywood to join mel gibson’s new non-woke film studio.”,False
+“kyle rittenhouse’s mom is 38.”,False
+“elon musk sues the view and whoopi goldberg for $60 million.”,False
+joe biden wants “to quadruple your taxes.”,False
+donald trump wants to terminate the affordable care act.,True
+“walmart has announced starting june 3rd all locations in the u.s. will go back to 24hrs.”,False
+"when secretary of state antony blinken was in ukraine recently ""he announced that they were going to suspend elections in ukraine.""",False
+“violent crime is near a record 50-year low.”,True
+“elon musk fires entire cast of “the view ” after acquiring abc.”,False
+"nfl referees “flex their authority, eject five players” for kneeling during the national anthem.",False
+"bird flu in the u.s. is a ""scamdemic"" timed to coincide with the 2024 presidential elections “by design.”",False
+“u.s. olympic committee says lia thomas is welcome to try out for the men’s team.”,False
+“dr. sebi’s daughter was sentenced to 155 years in prison for revealing top secret health hacks.”,False
+"tariffs are a “direct, regressive tax on americans” and president joe biden’s new tariffs on chinese goods will “hit every family.”",True
+"robert f. kennedy jr. called voter id “racist,” calls nra a “terrorist organization” and supports affirmative action.",True
+former president donald trump “has the worst record of job loss of any president.”,True
+"""trump bailed out wall street, but not main street.""",False
+says gubernatorial candidate rebecca kleefisch “worked with scott walker to sign five abortion restrictions into law that took away services and threatened doctors with prison time for providing safe and legal abortions.”,True
+your state will send you free infant formula if you call enfamil and similac customer service numbers.,False
+derek chauvin had his left hand in his pocket while kneeling on george floyd.,False
+"""since the mid-'90s, this country has been governed by revolving continuing resolution and omnibus spending bill(s). … that is the reason we're $33 trillion in debt.""",True
+poll watchers in philadelphia prevented from entering polling places.,True
+"“for african american families in particular, the homeownership rate remains relatively unchanged since 1968, the year the fair housing act was signed into law.”",True
+“private insurance gives … better coverage” than people would get under a medicaid expansion.,False
+"quotes joe biden as saying, “the things i did while in elected office should not be made public while i am seeking a higher public office.”",True
+"""our supreme court has never taken away a constitutional right.""",False
+"nikki haley “says the retirement age at 65 is way too low, it must be much higher.”",True
+says donald trump said “good” during the final presidential debate in reference to families being separated at the border.,False
+“lego donates model mri kits to hospitals to help children understand the procedure and reduce their anxiety.”,True
+the electronic registration information center is “a system that’s funded by george soros.”,False
+new york state “hospitals reporting thousands of fungus lung infections due to wearing a mask!!”,False
+"“this month alone, more than 16,000 non-citizens have been removed from the voter rolls in 3 states.”",True
+minnesota gov. tim walz signed a bill “redefining ‘sexual orientation’ to include pedophiles.”,False
+says he is the ‘ranking member’ of the house select committee investigating the jan. 6 attack on the u.s. capitol.,False
+"waiting periods for gun purchases may not make a difference, because ""if somebody's decided that they're gonna take their life, they're gonna take their life.""",False
+republicans are “trying to create a fake unemployment crisis.”,False
+"gaza has “the highest number of people facing catastrophic hunger ever recorded by the integrated food security classification system — anywhere, anytime.”",True
+says a 2010 rockefeller foundation report shows the covid-19 pandemic and the international response were “meticulously planned at least 10 years ago.”,False
+"“it now appears there actually was meaningful voter fraud in fulton county, georgia, last november. that is not a conspiracy theory. it's true.”",False
+“antifa is warning that tonight they're moving out of the cities - and into residential areas to 'take what's ours.'”,False
+"judge jeff davis ""spent years defending a convicted cop killer"" and ""tried to get him off the hook.""",True
+says alexandria ocasio-cortez “says that all young people want to be socialists.”,False
+"the coronavirus has seen a “big surge in new zealand. it's terrible. we don't want that.""",False
+bath and body works products are not recommended during pregnancy because they are suspected of “damaging fertility or the unborn child.”,False
+members of the us women’s national soccer team turned their backs on the flag as a 98-year-old world war ii veteran played the anthem.,False
+“the cbo says (the build back better act) is $3 trillion of deficit spending.”,False
+a person’s immune system “tanks” after their second covid-19 vaccine dose.,False
+“myanmar used dominion voting systems.”,False
+"senate republicans' move to confirm judge amy coney barrett to the supreme court in an election year is ""not constitutional.""",False
+"says amber alerts are issued for white kids ""but not black kids in milwaukee.""",False
+"""ron johnson has voted against funding for law enforcement and recently opposed a plan to recruit and train new officers """,False
+“caitlin clark declines $1 million offer from abc to appear on ‘the view.’”,False
+“individuals released from incarceration are 129 times more likely to die of a drug overdose during the first two weeks after release.”,True
+"“we know mask mandates work. there’s enough evidence out there between counties that have done it and counties that haven’t.""",True
+"the american medical association rescinded a previous statement and now says ""hydroxychloroquine is okay"" for covid-19.",False
+"“the wisconsin voter roll has over 120,000 active voters who have been registered to vote for over 100 years.”",False
+says of gov. tony evers and 2020 violence in kenosha after the police shooting of jacob blake: “it took the loss of lives before help finally came.”,False
+“putin has stated: russian citizens (have) 2 options: stay home for 15 days or in jail for 5 years.”,False
+“mike tyson says he’s willing to box olympic dude with all proceeds to go to a battered women’s charity.”,False
+“free health allowance is available at no cost.”,False
+"“one quarter” of today’s $31.4 trillion federal debt “was accumulated in the four years of my predecessor,” donald trump.",True
+"“we’ve had more americans die of fentanyl than the iraq, afghanistan, and vietnam wars, combined.”",True
+"“pelosi’s $1.9 trillion bailout gives every federal employee a $21,000 bonus check… they never lost their job!”",False
+"""tim walz signed into law driver's licenses for illegal immigrants in minnesota.""",True
+"bernie sanders has “never taken corporate lobbyist money in his *entire political career.*""",False
+“starbucks just announced that they’re going cashless.”,False
+“tim ryan when he ran for president two years ago … supported banning fracking both on public lands and generally speaking.”,True
+"“bernie sanders wants free health care for all and was asked how he would pay for it. his answer was raise taxes to 52% on anybody making over $29,000 per year.”",False
+"“in 2021, minnesotans were roughly five times more likely to move to florida than vice versa” because they were “fleeing” the state under democratic gov. tim walz.""",True
+says melania trump is the “first flotus to visit troops in a combat zone since 1969.”,False
+"“joe biden’s margin of the less than 21,000 votes in wisconsin was the tightest of any state in 2020.”",False
+chief justice john roberts visited jeffrey epstein's private island.,False
+“congress has one job here: to count electoral votes that have in fact been cast by any state.”,True
+"eric schmitt “sponsored a bill to spend $480 million of your tax dollars” on cargo hub for airlines ""owned by china's communist party” and ""voted to let china buy up missouri farmland.""",True
+"says nbc news’ kristen welker “gave thousands of dollars to obama, clinton and biden, is registered as a democrat & her family spent christmas with the obamas at the white house.”",False
+"says his jan. 6, 2021, speech on the white house ellipse drew the “same number of people,” as the 1963 march on washington where martin luther king jr. gave his “i have a dream” speech.",False
+"""antifa was already inside the capitol with floor plans dressed as trump supporters"" on jan. 6, 2021, proving the attack “was 100% a setup.""",False
+"says marjorie taylor greene said, “jesus loves the u.s. most and that is why the bible is written in english.”",False
+"during the 2020 minnesota riots after george floyd’s murder, gov. tim walz didn’t call in the national guard, “so, i sent in the national guard to save minneapolis.”",False
+"“infection rates in allegany, cattaraugus and chautauqua counties have consistently been among the lowest in the state.”",True
+"“anything that you lose on the tariff from the perspective of the consumer, you gain in higher wages, so you're ultimately much better off.”",False
+president joe biden walked “onto an empty airplane for no reason.”,False
+the united nations sent out an email instructing staff not to use the words “invasion” or “war’” when referring to ukraine.,True
+"says gov. tony evers ""wanted to increase your taxes by $1 billion just for heating your homes instead, republicans cut your taxes by more than $2 billion.""",True
+"“since the week ending march 14, wisconsin actually saw a drop in tourism spending compared to last year of $1.7 billion.”",True
+"“michael jordan rejects $400 million disney offer, stating, ‘i do not collaborate with companies aligned with woke ideologies.’”",False
+“the white house gift shop is putting out a commemorative coin for donald trump's indictment.”,True
+“harvard is sitting on top of a $54 billion hedge fund they call an ‘endowment’ that they pay zero taxes on. yale has $31 billion. stanford $29 billion. princeton $26 billion.”,True
+the united states spent “2 trillion dollars to train and equip the afghan military over the past 20 years. they fell in a week.”,True
+"""(ron) desantis' bill would remove: background checks, instruction, training and oversight.""",True
+"discussing gender-affirming surgical care for minors, said that sweden “shut it down.”",True
+"“homicides are intraracial. when you look at white-on-white crime, it's 84%. right? homicides. white people kill white people.”",True
+“24 of every 100 kids in school today speak spanish.”,True
+“we have 85 million americans who have no health insurance.”,True
+“violent crime was up under donald trump.”,True
+children ages 5 to 9 “are not affected by” the coronavirus.,True
+"in pompano beach, florida, somali immigrants illegally in the u.s. were in line to get driver’s licenses and “all you need to vote is a driver's license.”",False
+"china “had the largest naval fleet in the world. they had 370 ships. they'll have 400 ships in two years. we won't even have 350 ships in two decades.""",True
+"""the postal service is not losing money because of amazon. it’s losing money because in 2006, the republican-led congress passed a law forcing it to prepay its pensions for 75 years, which no other corporation does ... without this law, the postal service would be turning a profit.”",True
+"""we put $330 million in general school aids — the largest in more than a decade.""",True
+"“elon musk backs caitlin clark, offers $10 million endorsement.”",False
+"says president donald “trump promised 13,000 new jobs to the people of #wisconsin. 3 years later, we’re still waiting…”",True
+"speaking of an hiv outbreak in indiana during his time as governor, says “we immediately deployed health resources.”",True
+"“when i came into office, iran had $70 billion in foreign exchange reserves. … by the time i left, they had nothing. they were broke.”",True
+"“wisconsin had over 1,400 opioid overdose deaths in 2022.”",True
+quotes sen. mitt romney as saying: “the merrick garland decision wasn’t unfair & the notion that someone has to pay the price to make up for it is wrong.”,True
+"""samsung drops out of $1 billion advertising campaign with olympics.""",False
+"baby boomers didn’t have autism, seizures, allergies and other ailments when they were kids.",True
+"“classified documents can never be taken out of a (sensitive compartmented information facility), ever.”",True
+"the united states had 589 coal-fired plants 10 years ago, and “we're down to 504. … we are the only nation that has reduced our reliance (on) coal energy.""",True
+"“kamala cast the tie breaking vote to hire 87,000 new irs agents to go after your tip income.”",False
+a phoenix tv station aired the election results more than a week early.,True
+“overdose deaths in wv are up 45% from the prior year.”,True
+“texas ranks 3rd highest among states for the number of people who have recovered from” the coronavirus.,True
+“pete buttigieg is a favorite candidate of wall street and the health care industry.”,True
+“netflix loses 6 million subscribers within hours of donation announcement.”,False
+"“when we discovered, i discovered, that we were doing many, many, too many stop and frisks, we cut 95% of it out.”",True
+“wisconsin is 49th in public health spending.”,True
+"“this year, it's going to be over $1.5 trillion (that we’ve) reduced the debt.""",True
+black lives matter protesters outside the white house faced a more militarized response than rioters who assaulted the capitol.,True
+"“in april last year, our state unemployment rate hit a record low of 2.4%. last year, wisconsin had an all-time lowest number of unemployed workers ever in modern history.”",True
+"in georgia, it's ""illegal to give people water within 150 feet of a polling place"" and ""punishable by up to a year in prison.""",True
+"“a few years back,” mitchell stadium in bluefield, w.va., “was voted the best high school football field in america.”",True
+project 2025 would end gay marriage.,False
+“ron desantis is against fracking. he is against drilling”,True
+"“before the pandemic, just over 40,000 were on continuing ui claims. now, there are well over 100,000 on state or federal ui benefits.”",True
+“100 million ballots (democrats) prefilled now have the wrong name.”,False
+"""higher education is one of america's strongest export sectors. over 1 million international students studied at american universities, (in the) 2018-19 school year. they contributed over $40 billion to the economy.”",True
+kamala harris “supported abolishing ice.”,False
+"due to u.s. senate rules, democrats need ""more than a majority ... to codify roe vs. wade.""",True
+abc news reporter said “government tried to kill” former president donald trump.,False
+"in afghanistan, “over 100 billion dollars spent on military contracts.”",True
+"“new haven, conn., had to issue bonds for a bridge after using funds for that bridge to pay for a police misconduct settlement.""",True
+says taylor swift “announced a fund raising concert with beyoncé in support of harris” on july 23.,False
+minnesota gov. tim walz signed a law that would “take children away from their parents if the parents don’t want to consent to sex changes.”,False
+my 2018 election was the first time speaker robin vos has lost a republican-held seat,True
+“gas prices have skyrocketed since joe biden took office and continue to do so everyday.”,True
+there is “$500 billion of unspent covid money” that can be rescinded.,True
+"in milwaukee, ""the (homicide) rate has nearly doubled in the past two years.""",True
+“the state of washington has already sent out their ballots” for the 2024 presidential election.,False
+project 2025 would “end head start.”,True
+"former president jimmy carter “passed away tuesday, july 23, at 01:34 am at his home in plains, georgia at the age of 99.”",False
+there are nine states “where biden’s name can’t be removed and no one can be added. that’s over 130 electoral votes in the toilet.”,False
+“iran has stockpiled 10 times as much enriched uranium as it had” in 2016.,True
+"kamala harris “returned” a $5,000 donation donald trump made to her campaign in 2011.",False
+"""(the) top issue for college students is the economy.""",True
+"says since he took office, the city of milwaukee has seen the creation of 7,000 new affordable housing units.",True
+"“we’ve seen an 800% increase in the swanton sector, which is the part of the northern border that i represent, in illegal crossings.”",True
+“the racial wealth gap is the smallest it’s been in 20 years.”,True
+"“when a basketball player or football or baseball player from another team plays in wisconsin, that one game's salary, they pay wisconsin income tax on it. ... so if for some reason we do not have the brewers in wisconsin all of those player salaries that generate dollars for the state of wisconsin go away.""",True
+“prices have increased over 17% in the last two years.”,True
+“we are no. 1 among all large states in having fully vaccinated teenagers. we are no. 2 in all large states for having fully vaccinated five- to 11- year-olds.”,True
+"“if you look at the hospitalizations at ruby memorial in west virginia, and around the country, 90% to 95% of those hospitalized are unvaccinated.”",True
+“2022 was the biggest tourism year ever in west virginia”,True
+"milwaukee's marcus performing arts center – where 'the daily show' had been scheduled – “was originally located in the ‘soft perimeter,’ they called it, security-wise” but “was shifted, understandably so, to the ‘hard perimeter.’”",False
+says he has issued more pardons than “any wisconsin governor in contemporary history.”,True
+kamala harris has adopted the nazi-rooted phrase “strength through joy” as her campaign slogan.,False
+"“we passed 27 bills last year, which is the fewest since the depression.”",True
+“the idea that there’s political violence or violence in america like this is just unheard of.”,False
+"""the trump administration handed out taxpayer dollars to a foreign company. hundreds of homes and farms were bulldozed, and over $500 million in taxpayer dollars were wasted preparing for foxconn.""",True
+"during his tenure as mayor of new york city, “street homelessness decreased by 28 percent.”",True
+"the gop-controlled legislature has ""refused to act on at least 150"" appointees of gov. tony evers.",True
+“we're having the largest classes of correctional officers we've ever had before.”,True
+"new york is ""leading the nation with the lowest imprisonment rate of any large state”",True
+"bbc news published a graphic quoting president joe biden saying, “let me say this as clearly and simply as i can: [inaudible].”",False
+"“right now, two-thirds of the u.s. senate is composed of millionaires.”",True
+list shows settlements donald trump made to 10- to 13-year-old victims of child sex crimes.,False
+"kamala harris ""co-sponsored, fully sponsored"" the green new deal.",True
+project 2025 mandates women carry “period passports” to “track their menstrual cycles” and “monitor pregnancies.”,False
+the associated press reported “prosecutors are reconsidering bringing charges against former president donald j. trump on child rape and molestation charges.”,False
+c-sections are coded as abortions in hospitals.,False
+"under joe biden, there are “record numbers of new black entrepreneurs”",True
+“disney and google bought the rights to the first king james bible.”,False
+texas and florida have a “balanced budget” while california is “in debt $54 billion and new york is “in debt $6.1 billion.”,True
+"says joe biden “has issued more executive fiats than anyone in such a short period of time, ever, more than obama, more than trump, more than anyone.”",True
+"""for 18 months under president trump, not a single american was harmed in afghanistan.”",False
+“wnba organizers have officially announced an investigation into the referees in all of caitlin clark's games for ignoring all dirty actions by her opponents against her.”,False
+“research illustrates a clear correlation between vitamin d deficiencies and (higher) covid-19 mortality rates.”,True
+"""malaysia airlines flight mh370 returns after 10-year mystery""",False
+"says a 1942 milwaukee ymca brochure shows children playing a violent, racist carnival game",True
+"“r. kelly has been released from united states of america federal prison, chicago.”",False
+says republican u.s. sen. ron johnson “called climate change ‘bull----’ during a record heatwave” and “raked in over $700k in fossil fuel cash.”,True
+"""president zelenskyy’s wife orders 4 million dollar bugatti” in paris with u.s. tax money.",False
+the city of san francisco posted street signs warning that “stolen goods must remain under $950.”,False
+"""86% of americans and 82% of gun owners support requiring all gun buyers to pass a background check.""",True
+"“the weapons that ukraine used in the early days of this war to fend off the russian invasion are the weapons that donald trump sent, that barack obama and joe biden had refused to send.”",True
+“new york is one of only 12 states where the average gallon of gas costs more than $2.00.”,True
+"chiefs' coach andy reid ""fires 3 top players for anthem kneeling.""",False
+"“it wasn’t all women that lost jobs (in the december jobs report), it was mostly black and latina women. in fact, white women gained employment.”",True
+a jury “ordered disney and lucasfilm to pay” actor gina carano $115 million.,False
+florida has “the highest” homeowners insurance in the nation.,True
+"cnn's david chalian referred to michelle obama as ""big mike"" on air during presidential debate coverage.",False
+"“today in america, 1 in 3 women of reproductive age live in a state with an abortion ban.”",True
+“two-thirds of americans disapprove of donald trump not wearing a face mask in public.”,True
+"“you’ve raised a lot more money than i have, bernie.”",True
+"""hospitals murdered patients” with remdesivir, a drug banned from ebola trials because of “53% kill rate.”",False
+"in covid-19 crisis, “only 20% of african americans had jobs where they could work from home.”",True
+"“vitamin d3 is radiated sheep’s wool mixed with chloroform”, “vitamin d3 is rat poison !!”, “d levels are low because of lack of light and high vitamin a diets.”",False
+"“there is a huge boom in cancer, especially in female breast cancer in the younger ages of 45 and below.”",False
+5g at 60 ghz “stops the human body and blood absorbing oxygen”; this is what doctors are describing in covid-19 cases,False
+"raw manuka honey kills every bacteria scientists throw at it, including antibiotic-resistant superbugs",True
+"“sunscreen and then skin cancer, it's a direct correlation”; wearing sunglasses increases the risk of sunburn; sunscreen reduces vitamin d production",False
+“new study links pfizer’s covid vaccine to ‘turbo cancer’”,False
+"covid-19 is caused by snake venom, not a virus; snake venom is in the covid-19 vaccines and causes miscarriage",False
+"“the unvaccinated amish rarely get cancer, autism, or heart disease.”",False
+study shows myocarditis from covid-19 vaccination carries serious risk of death,False
+vaccine killed 3.5x more americans than covid virus,False
+“mask study published by nih suggests n95 covid masks may expose wearers to dangerous level of toxic compounds linked to seizures and cancer”,False
+pfizer documents confirm that mrna covid-19 vaccinations contain graphene oxide,False
+"“covid vaccines were never safe for pregnant women, pfizer’s own data show”",False
+red bull contain cocaine and buprenorphine,False
+the pandemic was planned; respiratory illness surge in new york and china isn’t airborne but due to chlorine and benzene in food and water,False
+new england journal of medicine “proves” 80% miscarriage rate among vaccinated women; covid-19 vaccines harm men’s and women’s fertility,False
+queensland health researchers find that long covid doesn’t exist,False
+the cdc found a 236% increased risk of autism in african-american boys associated with the mmr vaccine,False
+“no discernible benefit of covid-19 vaccination in pregnancy”; “higher rate of neonatal and all-cause readmissions among babies born to vaccinated mothers”,False
+“…a virus is not the cause of an illness. it’s a necessary cause […] but it is not the cause.”,True
+"each of these ingredients [thimerosal, ovalbumin, formaldehyde, sodium deoxycholate] is a known neurotoxin",False
+vitamin k shots are dangerous because of toxic levels of aluminum; hepatitis b vaccines contain toxic ingredients,False
+alzheimer’s disease is a “physician-caused disease” that arises due to nutritional deficiencies,False
+covid-19 vaccines can be sexually transmitted to unvaccinated people; vaccines cause blood discoloration and weaken immune system,False
+aluminum in vaccines causes neurological damage and autism,False
+"childhood vaccines contain “mixed up toxins” including formaldehyde, aluminum, aborted fetal dna, fetal bovine serum, monkey kidney cells, mercury, pig circoviruses",False
+"salt and corn gluten meal are used to kill mice, they are hazardous to humans",False
+"""autopsies performed by the italian pathologists [have] shown that [covid-19] is not pneumonia but it is disseminated intravascular coagulation""",False
+blank covid-19 vaccine safety inserts show there are no safety and effectiveness studies for these vaccines,False
+moderna was already producing covid-19 vaccines before the beginning of the pandemic,False
+babies under six months shouldn’t drink water as it can result in health risks,True
+covid-19 vaccines cause leprosy,False
+“most of the victims of the spanish flu didn’t die from the spanish flu. they died from bacterial pneumonia. and the bacterial pneumonia was caused by [...] wearing masks”,False
+abortion is never medically necessary,False
+"the who declaration of a public health emergency is a scheme to use vaccines “stocked up in warehouses”; bird flu, parvovirus b19, and monkeypox are “rebranding” of the same virus",False
+coronavirus contains 'hiv insertions',False
+a public information film on the coronavirus was released in the 1970s,False
+"“fauci frankensteined covid bats on our soil a year before the pandemic, but then acted all shocked when the virus started spreading” ; fauci’s goons went to the wuhan lab, bottled up a virus and brought it to a lab in america”",False
+"“the covid vaccines have killed millions of people worldwide, an estimated 1 death per 1,000 doses on average in a standard population”",False
+unapproved genetically modified organisms in the covid-19 mrna vaccines could permanently change our dna,False
+"covid-19 mrna vaccines aren’t vaccines, according to court ruling",False
+vaccines contain unhealthy levels of aluminum; japan’s elimination of vaccines has reduced infant mortality,False
+"a “zapper” can kill parasites, bacteria, and viruses; it cures all diseases",False
+"“an accurate reporting by pfizer would have shown equal numbers of clinical trial deaths in the vaccine and placebo groups and thus, no benefit of vaccination”",False
+"vaccines have caused an ""explosion"" of childhood cancer; vaccine package insert states vaccines weren’t tested for mutagenic effect",False
+"recent study shows how sunscreen causes cancer, not the sun",False
+"countries that sign pandemic treaty cede their sovereignty to the who, allowing who to control domestic policies, force vaccination, lockdowns, and arrest of vaccine opponents",False
+“the greatest trick the cdc ever pulled was convincing the world you can be sick without having symptoms”,False
+"""cat parasite"" causes toxoplasmosis; toxoplasmosis increases ghrelin hormone levels",True
+hpv vaccine increases the risk of developing cervical cancer,False
+“99.2% of u.s. covid deaths in june were unvaccinated people”,True
+"sweetgum balls contain the same active ingredient that tamiflu contains, which is shikimic acid; it kills viruses including sars-cov-2",False
+switzerland stops covid-19 vaccines due to safety concerns,False
+“myocarditis and pericarditis only occur after vaccination and not after covid-19 infection.”,False
+covid-19 vaccination of pregnant women is connected to an increase in u.s. infant mortality rate in 2022,False
+vitamin b17 “was banned by the us because of its cancer-killing properties”,False
+"“since the vaccine rolled out, [a midwife]’s seen no normal placenta […] they’re all compromised”",False
+“msm silent as court holds pcr covid tests 97% inaccurate - unfit for purpose”,False
+"hpv vaccines are ineffective and cause side effects including autoimmune and neurological disorders, based on vaers reports",False
+poppers are the cause of kaposi’s sarcoma,False
+blocks of color printed on toothpaste tubes indicate whether the toothpaste is made of safe ingredients,False
+nicotine patches can cure parkinson’s disease,False
+"“americans are dropping dead” from covid-19 vaccines; vaccines impair fertility, pregnancy, infant survival",False
+“no one has died of cancer or heart disease since the covid-19 thing started”,False
+"viruses don’t exist, terrain theory explains why diseases occur",False
+mammograms don’t prevent cancer; mammograms contribute to cancer development,False
+"“official cdc data: 143,233% surge in fatal cancers among vaxxed americans”",False
+"zero amish children diagnosed with cancer, diabetes or autism; amish children are largely unvaccinated; covid death rates among amish communities are 90 times lower than for the rest of america",False
+doctors are ‘injecting poison’ into babies every two months.,False
+covid-19 vaccines are “an unqualified disaster”; they didn’t “[halt] viral spread” and they caused “high morbidity and mortality rates”,False
+[it] is nearly impossible to categorize post-vaccine deaths as vaccine-related,False
+“secret cdc report confirms nearly 120k youngsters 'died suddenly' in the usa by oct. 2022 following roll-out of covid vaccines”,False
+"ventilators, not covid, killed hospitalized covid patients",False
+“those who have been fully vaccinated for covid-19 with mrna shots will lose 25 years of their life”,False
+“for every one person who dies: 19 more require hospitalization; 18 of those will have permanent heart damage for the rest of their lives”,True
+toxic vaccine ingredients in the mmr vaccine cause encephalopathy,False
+the ph for the coronavirus varies from 5.5 to 8.5. what we need to do to defeat the coronavirus is to consume more alkaline foods above the virus’ ph level.,False
+“all these vaccines are causing harm to our kids”; “the fully unvaccinated kids are always healthier”; “vaccines are causing chronic disease in america”,False
+the way urine reacts to salt is a test for pregnancy,False
+placing raw onion on the bottom of the feet eliminates illness,False
+“dissolution of spike protein by nattokinase: holy grail of covid-19 vaccine detoxification”; long covid is caused by persistent spike protein in the body,False
+measles vaccine caused samoa measles outbreak,False
+the dtap vaccine causes sids,False
+covid-19 vaccines increase the risk of miscarriages and stillbirths,False
+doctors murdered to protect big pharma profits and silence holistic health practitioners,False
+“the government has released their initial plans to force a vaccine on everyone”; “three potential vaccines are currently in stage 3 trials in the united states and could be ready in weeks”,False
+health authorities like the world health organization and the u.s. centers for disease control and prevention discourage people from wearing face masks,False
+the measles outbreak is directly caused by illegal immigration,False
+birthmarks are indicators of the mthfr gene; “when people have mthfr their chances of vaccine reactions increase because they cannot detox the toxins from the vaccines”,False
+fungi are the cause of cancer,False
+“new medicine normalizes blood sugar levels after the first use”,False
+"whooping cough vaccine was never necessary, dtap vaccine is linked to sudden infant death syndrome",False
+“buy yourselves charcoal activated tablets […] it will counteract most date rape drugs”,False
+"covid-19 mrna vaccines are experimental, “ineffective and harmful”",False
+there are no fda-approved covid-19 vaccines on the u.s market as of may 2023,False
+"patent us5676977a is for aids, patent us8835624b1 is for h1n1, patents us7897744b2 and us8506968b2 are for sars",False
+vaers data are “crystal clear”: “the covid vaccines are killing people”,False
+2019 novel coronavirus contains 'pshuttle-sn' sequence proving laboratory origin,False
+bill gates-funded company released genetically modified mosquitoes in the u.s. and caused a malaria outbreak,False
+this coronavirus genome contained sequences of another virus […] the hiv virus (aids virus),False
+flu shots spread the flu,False
+a [group] of people is injecting fruits with blood containing hiv and aids,False
+"a soup made of garlic, onions, thyme, and lemon can replace the flu shot and cure other illnesses such as the common cold and norovirus",False
+the spike protein induced by covid-19 vaccines is toxic and causes diseases and deaths; nattokinase can counter these effects,False
+"global covid vaccine safety study shows that covid-19 vaccines are dangerous, inadequately tested; getting vaccinated is more dangerous than getting covid-19",False
+“salt does not raise blood pressure”,False
+there are no studies that prove vaccines don’t cause autism,False
+“coronavirus quickly spread around the world as early as october 2019”,True
+masks do nothing to prevent the spread of pathogens,False
+aids was cured in more than a dozen patients,False
+sweden bans mandatory vaccinations over 'serious heath [sic] concerns',False
+"vaccines, mthfr mutation, and glyphosate lead to autism in children with brain injury",False
+u.s. deaths from covid-19 hit 1 million,True
+“autism is nothing more than mercury toxicity“; vaccine ingredients are toxic,False
+"study in italy shows nearly 1 in 3 covid vaccine recipients have neurological side effects, indicating an “unacceptable” safety profile",False
+adhd is a fake disease invented by big pharma to drug children for profit,False
+“no childhood vaccine has ever been through a double blind placebo controlled trial.”,False
+"thai princess “most likely a victim of the jab”, thailand “could become the first country in the world to nullify the contract between the government and pfizer”",False
+you have a 0.03[%] chance of dying from [covid-19] in the state of california. [...] it’s similar to the flu.,False
+"“there is a cure to every d!isease”; herbs can cure cancer, diabetes, alzheimer’s",False
+pfizer admits that vaccinated people can shed the vaccine on unvaccinated people,False
+more people are dying now than at the peak of the pandemic; the covid-19 vaccines are the cause of the excess deaths seen in late 2022,False
+chemtrails contain toxic substances such as barium salts that are 10 thousand times more toxic to your nervous system than lead,False
+unvaccinated children pose no threat to anyone,False
+sugar causes cancer; eliminating sugar from the diet can cure cancer,False
+covid-19 vaccine mrna cannot be broken down; covid-19 vaccines cause excess death and unprecedented blood clots,False
+covid-19 vaccines are “experimental poison”; covid has gone away,False
+"“sars is the research developed by humans, weaponizing a life system model to actually attack human beings”",False
+colloidal silver is effective for any infection,False
+bones “are not made of calcium”; wild yam is a treatment for osteoporosis,False
+every election year has a disease; coronavirus has a contagion factor of 2,False
+"marijuana is non-addictive, cures cancer, and grows brain cells",False
+published studies show that covid-19 mrna vaccines cause metabolic cardiomyopathy and sudden cardiac death,False
+there is nothing wrong with the thyroid in patients with hashimoto’s disease; vitamin b is a cure for hashimoto’s disease,False
+a study showed a “weakened immune response in kids injected with pfizer’s covid-19 shot”; “the mrna covid jabs damage immune responses to other viruses in children”,False
+hpv vaccine may lead to elimination of cervical cancer,True
+covid-19 rna vaccines weren’t made with messenger rna; vaccine rna cannot be broken down in the body,False
+drinking bottled water with an acidic ph is bad for your health,False
+highly infectious hiv 'vb' variant makes people ill twice as quickly,True
+"per fda guidelines, babies are too small to safely handle the amount of aluminum in childhood vaccines",False
+[sars-cov-2] is spreading quickly from gas pumps. shopping carts as well.,True
+"if the tongue is 'crooked', if it goes to one side or the other that is also an indication of a stroke.",True
+apeel contains harmful ingredients,False
+"vitamins c and d are now finally being adopted in the conventional treatment of sars-cov-2; vitamin c at extremely high doses acts as an antiviral drug, actually killing viruses; vitamin d helps the body fight sars-cov-2 infection and can cut infection risk.",True
+“5g plays a part in this ‘plandemic’” ... the cases of covid-19 are “directly related to electromagnetic radiation exposure by 5g”,False
+cdc admits 98 million americans received polio vaccine in an 8-year span when it was contaminated with cancer virus,True
+“charcoal absorbs and neutralizes poisons”; charcoal can treat diarrhea and bloating,True
+"covid-19 vaccines contain proteins from hiv; “if you have taken the third dose, go and take a test for aids, then sue your government”",False
+“bill gates explains that the covid vaccine will use experimental technology and permanently alter your dna”,False

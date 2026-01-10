@@ -1,0 +1,64 @@
+[Instruction]: You are given a [claim], [evidence], [choices], and [selected choice].
+Your task is to continue the text generation based on the [selected choice] by completing the [completion], first by generating a closing parenthesis, `)`, followed immediately by the verbatim [selected choice] ("True" or "False") and a period. After this prefix, provide a 3–4 sentence justification for the choice.
+The [evidence] field can be 'None' or contain few sentences.
+*CRITICAL FORMATTING RULE:* Your response for the [completion] **MUST** begin with a closing parenthesis
+*Correct Format Example:* `)True. [3-4 sentence justification here]`
+*This rule is mandatory* whether the [evidence] is provided or is 'None'.
+
+[Input]
+[claim]: <Most store bought rice pudding is made with brown rice.>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (A
+[completion]: )False. Most store-bought rice pudding is actually made with white rice, not brown rice. White rice is preferred for its softer texture and quicker cooking time, which is better suited for commercial production. Brown rice has a chewier texture and nuttier flavor that is less common in mass-market rice pudding varieties. Therefore, the claim that most store-bought rice pudding is made with brown rice is incorrect.
+<|eot_id|>
+
+[Input]
+[claim]: <Some people were afraid of New Years Day coming in 1999.>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. This fear was primarily related to the Y2K bug, a widespread computer flaw that many feared would cause systems to fail when the date rolled over from 1999 to 2000. People were concerned that critical infrastructure like power grids, financial systems, and air travel could malfunction. This led to significant anxiety and extensive efforts to update computer systems globally before the new year. Therefore, it is accurate to say that some people were afraid of New Year's Day coming in 1999.
+<|eot_id|>
+
+[Input]
+[claim]: <The Gracie founders of Brazilian jiu-jitsu had at least a baker's dozen of children collectively.>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. The Gracie family, founded by Gastão Gracie and his sons Carlos and Hélio, was indeed large, but the term "baker's dozen" specifically refers to thirteen. While the family is extensive across multiple generations, the core founding members and their immediate children do not collectively reach that precise number. Historical accounts typically focus on the key brothers who developed and propagated the art, not a count that meets the baker's dozen threshold. Therefore, the claim is not accurate.
+<|eot_id|>
+
+[Input]
+[claim]: <The Capricorn astrology symbol has all of the parts of a chimera.>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (B
+[completion]: )True. The Capricorn symbol is the sea-goat, a mythical creature with the head of a goat and the tail of a fish. A chimera is a single creature composed of parts from two or more different animals. Since the sea-goat is a fusion of a goat and a fish, it fits the definition of a chimera by being a hybrid mythological beast. Therefore, the claim that it has all the parts of a chimera is correct.
+<|eot_id|>
+
+[Input]
+[claim]: <Some psychotherapy patients have no mental illness.>
+[evidence]: <Research studies have found that despite being a less severe form of mental illness, anxiety disorders, including phobia, social anxiety disorder, and general anxiety disorder, affect approximately 18% of the US population each year. It has also been found that the majority of patients who seek out psychotherapy do so for symptoms related to anxiety disorders. >
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided evidence discusses the prevalence of anxiety disorders but does not state that every psychotherapy patient has a diagnosed mental illness. People often seek therapy for help with life stressors, relationship issues, grief, or personal growth, which are not classified as mental illnesses. Therefore, it is accurate that some individuals in psychotherapy are there for reasons other than a treatable mental disorder. The claim is supported by common therapeutic practice.
+<|eot_id|>
+
+[Input]
+[claim]: <Pirates who had scurvy needed more Vitamin C.>
+[evidence]: <In a study conducted by Dr. Jonathan Lamb and Dr. Kenneth M. Towe, it was discovered that pirates who had scurvy were not able to efficiently absorb Vitamin C. While Vitamin C is essential for preventing scurvy, those who already had the disease needed a different approach. They found that the best remedy was to consume fresh meat of any kind, which is high in protein and thus helped heal the body rapidly. This study supports the claim that pirates with scurvy did not need more Vitamin C.>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. According to the provided evidence, pirates who already had scurvy could not efficiently absorb Vitamin C, and the recommended remedy was instead fresh meat high in protein. The study explicitly states that more Vitamin C was not the solution for those already afflicted with the disease. Therefore, the claim that pirates with scurvy needed more Vitamin C is directly contradicted by the research findings.
+<|eot_id|>
+
+[Input]
+[claim]: <Knowing who Darth Vader is does not require watching Star Wars.>
+[evidence]: <Many people argue that watching Star Wars is necessary to know who Darth Vader is, and the evidence to support this claim is that Darth Vader is one of the most iconic and recognizable villains in popular culture. He has become a household name and is often cited as one of the greatest villains in cinematic history. In order to fully appreciate and understand the character of Darth Vader, it is important to watch the Star Wars films, as they provide his backstory, motivations, and development throughout the series. Without this context, it would be difficult to fully appreciate the impact and influence that Darth Vader has had on popular culture.>
+[choice]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The evidence, while arguing that watching the films provides a deeper appreciation, confirms that Darth Vader is an iconic and recognizable figure in popular culture. His image, signature breathing, and the famous "I am your father" revelation are pervasive in media, memes, and general public knowledge. One can know his identity as a central villain from the Star Wars universe without having seen the movies through cultural osmosis. Therefore, the claim that watching the films is not a requirement for knowing who he is stands as correct.
+<|eot_id|>
+
+[Input]

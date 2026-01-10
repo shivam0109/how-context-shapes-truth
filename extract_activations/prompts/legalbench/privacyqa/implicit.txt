@@ -1,0 +1,64 @@
+[Instruction]: You are given a [claim], [policy_text], [choices], and [selected choice].
+Your task is to continue the text generation based on the [selected choice] by completing the [completion], first by generating a closing parenthesis, `)`, followed immediately by the verbatim [selected choice] ("True" or "False") and a period. After this prefix, provide a 3–4 sentence justification for the choice.
+The [policy_text] field can be 'None' or contain few sentences.
+*CRITICAL FORMATTING RULE:* Your response for the [completion] **MUST** begin with a closing parenthesis
+*Correct Format Example:* `)True. [3-4 sentence justification here]`
+*This rule is mandatory* whether the [policy_text] is provided or is 'None'.
+
+[Input]
+[claim]: <Lima Sky can save a user's information for a specific duration.>
+[policy_text]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (A
+[completion]: )False. Lima Sky is best known as the developer of the mobile game "Doodle Jump," a company focused on game development rather than user data storage services. There is no public information or feature associated with Lima Sky that involves saving user information for a specific duration. Therefore, the claim appears to inaccurately describe the company's primary business functions.
+<|eot_id|>
+
+[Input]
+[claim]: <Apple can share information with third parties.>
+[policy_text]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. Apple's privacy policy explicitly states that it shares personal information with third-party partners to facilitate its services, such as for payment processing and delivery of purchases. This sharing also occurs for legal reasons, such as to comply with the law or to protect the rights and safety of Apple and its users. Therefore, the claim that Apple can share information with third parties is accurate based on their stated practices.
+<|eot_id|>
+
+[Input]
+[claim]: <Groupon can ask for a user's personal details such as credit card details.>
+[policy_text]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. Groupon does not ask for a user's personal details such as credit card information. The platform operates as an informational service that connects users with local deals without requiring any financial commitments. Users only provide payment details when they are redirected to a third-party vendor's website to finalize a purchase. Therefore, the core Groupon service itself does not collect this sensitive data.
+<|eot_id|>
+
+[Input]
+[claim]: <PeopleFun can request permissions from a user's device.>
+[policy_text]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (B
+[completion]: )True. PeopleFun, as a developer of mobile games like "Wordscapes," requires certain device permissions to function properly. These permissions can include access to network connectivity for features and updates, as well as storage access to save game progress. It is standard practice for such apps to request these permissions upon installation or during use. Therefore, the claim that PeopleFun can request permissions is accurate.
+<|eot_id|>
+
+[Input]
+[claim]: <23andMe can use a user's test results for marketing purposes.>
+[policy_text]: <For example, we may be required to disclose Personal Information in coordination with regulatory authorities in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided policy text indicates that 23andMe discloses personal information to regulatory and law enforcement authorities, which demonstrates a use of user data beyond the core service. While the text does not explicitly mention marketing, the precedent of sharing data for other purposes establishes that user information, including test results, can be utilized for company objectives. Marketing is a common business objective for which anonymized or aggregated genetic data could be used. Therefore, based on the established practice of using data for secondary purposes, the claim is true.
+<|eot_id|>
+
+[Input]
+[claim]: <Viber requires a user to submit identifying information.>
+[policy_text]: <That means your name and photo (if you choose to provide them) will be visible to other Viber users.>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. The provided policy text states that submitting a name and photo is optional, as indicated by the phrase "if you choose to provide them." This means a user can operate a Viber account without submitting this identifying information. Therefore, the claim that Viber "requires" a user to submit identifying information is incorrect. The service is functional without the provision of these personal details.
+<|eot_id|>
+
+[Input]
+[claim]: <Google can record information.>
+[policy_text]: <We do not merge information collected through any Google advertising product with individual-level information collected elsewhere by our Service.>
+[choice]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The policy text specifies a limitation on merging data from advertising products with other service information, which inherently confirms that Google does record information from its various services. This distinction between different data streams acknowledges the active collection and recording of user data. The claim is a broad statement about Google's capability to record information, which is true.
+<|eot_id|>
+
+[Input]

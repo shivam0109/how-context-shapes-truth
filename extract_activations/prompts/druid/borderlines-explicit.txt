@@ -1,0 +1,64 @@
+[Instruction]: You are given a [claim], [evidence], [choices], and [selected choice].
+Your task is to continue the text generation based on the [selected choice] by completing the [completion], first by generating a closing parenthesis, `)`, followed immediately by the verbatim [selected choice] ("True" or "False") and a period. After this prefix, provide a 3–4 sentence justification for the choice.
+*CRITICAL RULE*: If the [evidence] field is not 'None', your justification **MUST** be based *only* on the information provided in the [evidence]. If [evidence] is 'None', use your knowledge for the justification.
+*CRITICAL FORMATTING RULE:* Your response for the [completion] **MUST** begin with a closing parenthesis.
+*Correct Format Example:* `)True. [3-4 sentence justification here]`
+*This rule is mandatory* whether the [evidence] is provided or is 'None'.
+
+[Input]
+[claim]: <Sixty-Four Villages East of the Heilongjiang River is a territory of Russia>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (A
+[completion]: )False. Although the area known as the Sixty-Four Villages East of the Heilongjiang River has been under Russian control since the mid-19th century, China has historically disputed the legitimacy of the treaties that ceded it. These treaties, signed under pressure during the Qing dynasty, are considered "unequal" by China. As a result, the territory is still regarded by some Chinese sources as historically part of China, not Russia.
+<|eot_id|>
+
+[Input]
+[claim]: <Glorioso Islands is a territory of France>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The Glorioso Islands are administered by France as part of its overseas territories in the Indian Ocean. They are managed by the French Southern and Antarctic Lands (TAAF) and have a French military presence. Although claimed by Madagascar and the Comoros, France maintains de facto and de jure control over the islands.
+<|eot_id|>
+
+[Input]
+[claim]: <Island of Šarengrad is a territory of Portugal>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. The Island of Šarengrad is located in the Danube River and is subject to a territorial dispute between Croatia and Serbia. It has no connection to Portugal geographically, historically, or politically. Portugal does not claim or administer this island.
+<|eot_id|>
+
+[Input]
+[claim]: <Arroyo de la Invernada is a territory of Uruguay>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (B
+[completion]: )True. Arroyo de la Invernada is a border region situated between Uruguay and Brazil that has long been claimed by Uruguay as part of its national territory. Uruguay bases its claim on the 1851 Treaty of Limits, which it interprets as placing the area within its sovereign boundaries. The Uruguayan government has maintained administrative presence and legal documentation supporting its jurisdiction over the region. While Brazil also lays claim to the area, Uruguay continues to assert territorial rights consistent with historical treaties and national maps.
+<|eot_id|>
+
+[Input]
+[claim]: <Nakhichevan Autonomous Republic is a territory of Armenia>
+[evidence]: <Erdogan’s planned visit to Nakhchivan following Baku’s military offensive in Nagorno-Karabakh has raised significant concerns regarding the territorial integrity of Armenia. [...] Nakhchivan Autonomous Republic is an Azerbaijani exclave in proximity to Armenia, Iran, and Turkey. Baku has always stated that Armenia has isolated this exclave from the Azerbaijani territory, although Nakhchivan might economically cooperate with neighbouring Turkey and Iran. The establishment of the Iğdir-Nakhchivan natural gas pipeline represents a significant milestone, because this infrastructure might supply gas from the Trans-Anatolian Gas Pipeline (TANAP) in Turkey to the Nakhchivan Autonomous Republic, replacing the current gas supply from Iran.>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided evidence states that events in Nakhchivan raise "significant concerns regarding the territorial integrity of Armenia." This link suggests that the region's status is fundamentally connected to Armenia's sovereign territory. Because developments in Nakhchivan directly impact Armenian territorial integrity according to the text, it supports the claim that it is considered Armenian territory from this perspective.
+<|eot_id|>
+
+[Input]
+[claim]: <Pratas Island is a territory of Republic of China>
+[evidence]: <Pratas Island is located 444 km (276 mi) from the rest of Kaoshiung,[63] 850 kilometres (530 miles) southwest of Taipei, 320 kilometres (200 miles) southeast of Hong Kong[8] and 260 km (160 mi) south of Shantou, Guangdong[31] in the northern part of the South China Sea (20°43′N 116°42′E). An international team of researchers conducted a comprehensive population genetic analysis of 11 marine species sampled from the island. They concluded that Dongsha Atoll is an important regional stepping-stone that promotes genetic connectivity among South China Sea reefs, as marine larvae can potentially reach a large number of reefs in the northern South China Sea.[83] The protection of the island and surrounding reefs by the Taiwanese government as Dongsha Atoll National Park may therefore benefit the entire region. [...] The island is part of the Republic of China (Taiwan) with the postal code 817. Although there are no long-term inhabitants on the island, Pratas is administered by the Kaohsiung City Government under Cijin District (Qijin). The island has been uninhabited, yet nations (including China and Japan) have claimed them to be their overseas territory. [...] The People's Republic of China claims the Pratas Islands (东沙群岛) as part of Chengqu, Shanwei (Swabue), Guangdong Province.[9][10][11]: 10 [12][13]>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. Although the evidence confirms the island is administered by the Republic of China (Taiwan), it also states that the People's Republic of China claims the territory. This competing claim means the island's sovereign status is disputed. Because the territory is contested according to the text, the claim that it is definitively a territory of the Republic of China can be considered false.
+<|eot_id|>
+
+[Input]
+[claim]: <Lough Foyle is a territory of United Kingdom>
+[evidence]: <Lough Foyle is a disputed territory between the Republic of Ireland and the United Kingdom; after the Partition of Ireland in the early 1920s, each side claimed that it was in their own territory. Although this dispute is still ongoing, there are currently no negotiations as to its ownership. The UK's Foreign and Commonwealth Office (FCO) underlined its view on 2 June 2009 that all of Lough Foyle is in the United Kingdom, a spokesperson stating: 'The UK position is that the whole of Lough Foyle is within the UK. We recognise that the Irish Government does not accept this position...There are no negotiations currently in progress on this issue. The regulation of activities in the Lough is now the responsibility of the Loughs Agency, a cross-border body established under the Good Friday Agreement.' In November 2016, James Brokenshire, MP, the UK's Secretary of State for Northern Ireland, reiterated the UK's view that all of Lough Foyle is in the UK, whilst Charles Flanagan, TD, the Republic of Ireland's Minister for Foreign Affairs, stated that the Republic of Ireland did not recognise Britain's claim to the entirety of Lough Foyle.>
+[choice]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided evidence explicitly details the official position of the United Kingdom. It quotes a spokesperson for the Foreign and Commonwealth Office who stated, "The UK position is that the whole of Lough Foyle is within the UK." This official view was reiterated in November 2016 by the UK's Secretary of State for Northern Ireland, confirming the UK's consistent claim to the territory.
+<|eot_id|>
+
+[Input]

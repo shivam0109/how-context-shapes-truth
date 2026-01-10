@@ -1,0 +1,64 @@
+[Instruction]: You are given a [claim], [evidence], [choices], and [selected choice].
+Your task is to continue the text generation based on the [selected choice] by completing the [completion], first by generating a closing parenthesis, `)`, followed immediately by the verbatim [selected choice] ("True" or "False") and a period. After this prefix, provide a 3–4 sentence justification for the choice.
+*CRITICAL RULE*: If the [evidence] field is not 'None', your justification **MUST** be based *only* on the information provided in the [evidence]. If [evidence] is 'None', use your knowledge for the justification.
+*CRITICAL FORMATTING RULE:* Your response for the [completion] **MUST** begin with a closing parenthesis.
+*Correct Format Example:* `)True. [3-4 sentence justification here]`
+*This rule is mandatory* whether the [evidence] is provided or is 'None'.
+
+[Input]
+[claim]: <Kansas City Chiefs said they refuse to participate in Pride Month because ‘it’s extremely woke>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (A
+[completion]: )False. This claim originated from an article published by a satirical website. There is no record of the Kansas City Chiefs or any team representative making such a statement. The story was fabricated and has been widely debunked by fact-checking organizations.
+<|eot_id|>
+
+[Input]
+[claim]: <Joe Biden’s margin of the less than 21,000 votes in Wisconsin was the tightest of any state in 2020>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. Joe Biden won Wisconsin by just 20,682 votes, a figure that is indeed less than the 21,000 stated in the claim. Out of almost 3.3 million ballots cast in the state, this razor-thin margin represented a difference of only 0.63%. This victory was one of the most contested outcomes, leading to a partial recount and intense national focus on the state's results.
+<|eot_id|>
+
+[Input]
+[claim]: <Two-thirds of Americans disapprove of Donald Trump not wearing a face mask in public>
+[evidence]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. While polls showed a majority of Americans disapproved of Trump's choice, the figure did not consistently reach the two-thirds threshold. The issue was intensely polarized along party lines, with strong support for his decision among Republicans preventing a broad national consensus on the matter.
+<|eot_id|>
+
+[Input]
+[claim]: <Due to U.S. Senate rules, Democrats need "more than a majority ... to codify Roe vs. Wade>
+[evidence]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (B
+[completion]: )True. The Senate's filibuster rule requires 60 votes to end debate on most major legislation. This means a simple majority is not enough to pass a bill to codify Roe v. Wade if it faces opposition from the minority party.
+<|eot_id|>
+
+[Input]
+[claim]: <Poll watchers in Philadelphia prevented from entering polling places>
+[evidence]: <A poll watcher was denied access to one polling site in Philadelphia because the person in charge of that particular polling place was not up to date on the law, which allows watchers to enter any site, not just the ward and division site specified on the watcher’s certificate, said a spokesperson for Philadelphia City Commissioners. The spokesperson also said that the same poll watcher went to another site and was allowed to go in, and there is "no evidence that it was a systemic problem.>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided evidence confirms that at least one poll watcher was initially denied access to a polling site in Philadelphia. According to a city spokesperson, this occurred because the person in charge of that location was not up-to-date on the law. While the spokesperson stated this was not a systemic problem and the watcher was later admitted to another site, an incident of a poll watcher being prevented from entry did take place.
+<|eot_id|>
+
+[Input]
+[claim]: <We're having the largest classes of correctional officers we've ever had before.>
+[evidence]: <Wisconsin lawmakers passed a pay raise for corrections officers last year in hopes of fixing staffing shortages. The state Department of Corrections graduated its largest training class ever in February with 214 graduates. Prison staff vacancy rates have been trending down since they peaked at 35% in August.>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. This claim is an exaggeration based on the evidence provided. The evidence specifies that the Department of Corrections graduated one single record-breaking class in February. It does not support the broader claim that multiple "classes" are currently the largest ever, which is what the claim's wording implies.
+<|eot_id|>
+
+[Input]
+[claim]: <CNN\'s David Chalian referred to Michelle Obama as "Big Mike" on air during presidential debate coverage.>
+[evidence]: <David Chalian did not mention Michelle Obama. CNN told PolitiFact that this video was digitally altered with fake audio. In the original June 27 video clip, Chalian discussed the results of CNN polls conducted prior to the debate.>
+[choice]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The provided evidence confirms that there was a "video clip" that CNN addressed in a statement to PolitiFact. In this statement, CNN claimed the video was "digitally altered with fake audio." The evidence is therefore based on the existence of a video showing the events described in the claim.
+<|eot_id|>
+
+[Input]

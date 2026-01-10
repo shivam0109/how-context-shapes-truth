@@ -1,0 +1,71 @@
+[Instruction]: You are given a [movie name], a [claim] regarding the movie, [synopsis], [choices], and [selected choice].
+Your task is to continue the text generation based on the [selected choice] by completing the [completion], first by generating a closing parenthesis, `)`, followed immediately by the verbatim [selected choice] ("True" or "False") and a period. After this prefix, provide a 3–4 sentence justification for the choice.
+The [synopsis] field can be 'None' or contain few sentences.
+*CRITICAL FORMATTING RULE:* Your response for the [completion] **MUST** begin with a closing parenthesis
+*Correct Format Example:* `)True. [3-4 sentence justification here]`
+*This rule is mandatory* whether the [synopsis] is provided or is 'None'.
+
+[Input]
+[movie name]: <The Killer That Stalked New York (1950)>
+[claim]: <A woman smuggling diamonds from Cuba is infected with smallpox, which causes a city-wide manhunt to stop her from spreading the disease.>
+[synopsis]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (A
+[completion]: )False. A diamond smuggler from Cuba, Sheila Bennet, is infected with smallpox. This causes a city-wide health crisis, but the manhunt is not to find her to stop the spread of the disease; rather, it is a city-wide police investigation to find her, as she is believed to have killed an accomplice and stolen diamonds from him. The police are unaware that she is a carrier of smallpox, which is the reason for her illness and why she is running from the law.
+<|eot_id|>
+
+[Input]
+[movie_name]: <The Naked Kiss (1964)>
+[claim]: <The main character is a former prostitute who is trying to live a clean life but feels a constant fear of being discovered.>
+[synopsis]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. Kelly is a former prostitute who arrives in the small town of Grantville to start a new life. She is determined to leave her past behind and becomes a nurse's aide, befriending a young girl named Buff. Despite her efforts, Kelly constantly fears her past will be discovered, leading her to keep a low profile and be wary of anyone who gets too close. Her fear is justified when a man from her past threatens to expose her.
+<|eot_id|>
+
+[Input]
+[movie_name]: <The Smallest Show on Earth (1957)>
+[claim]: <The couple is filled with excitement and happiness when they first see the theatre they have inherited.>
+[synopsis]: <None>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. When Matt and Jean Spenser first arrive at the theatre, their excitement quickly turns to disappointment. They discover that the "Grand Palace" is a dilapidated, rundown cinema, not the grand establishment they had envisioned. The couple is initially dismayed by the poor condition of the theatre and its eccentric staff. Their initial reaction is one of disappointment rather than happiness.
+<|eot_id|>
+
+[Input]
+[movie_name]: <The Woman in the Window (1944)>
+[claim]: <The protagonist goes to the police after the murder, which causes him to be arrested.>
+[synopsis]: <None>
+[choices]: <(A) False (B) True>
+[selected choice]: (B
+[completion]: )True. In The Woman in the Window (1944), Professor Richard Wanley becomes entangled in a murder after defending himself against a man. He does not immediately flee but instead struggles with how to handle the situation, and his eventual involvement with the authorities leads to his undoing. His visit to the police contributes to his downfall, as it makes him increasingly suspicious and ultimately seals his fate. The film portrays his actions as a spiral from an innocent encounter into a trap of guilt and legal consequences.
+<|eot_id|>
+
+[Input]
+[movie_name]: <Shock Corridor (1963)>
+[claim]: <The main character, a journalist, feigns insanity to get committed to a mental institution, which causes him to slowly lose his own sanity.>
+[synopsis]: <Shock Corridor is a powerful and unsettling psychological thriller. The film centers on Johnny Barrett, an ambitious journalist who wants to win a Pulitzer Prize. To expose a murder that occurred inside a mental institution, he fakes insanity to have himself committed. Once inside, he must navigate the terrifying and chaotic environment of the asylum. Barrett's plan is to get close to three patients who witnessed the murder: a former physicist who believes he is a Confederate general, a former doctor who believes he is a child, and a war veteran who is a catatonic mute. As he delves deeper into the institution's dark secrets and the horrors of the human mind, Barrett's own sanity begins to unravel. He is increasingly tormented by the institutional abuses and his own growing paranoia. The film is a disturbing and visceral journey into madness, and it explores the fine line between sanity and insanity, leaving the audience to question whether Barrett will ever be able to return to his old self.>
+[choices]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. The synopsis states that Johnny Barrett, a journalist, fakes insanity to be committed to a mental institution in order to investigate a murder. As he navigates the asylum's dark secrets and abuses, his own sanity begins to unravel. The text explicitly mentions that he is increasingly tormented by his surroundings and growing paranoia, which blurs the line between his feigned insanity and genuine madness.
+<|eot_id|>
+
+[Input]
+[movie_name]: <On the Waterfront (1954)>
+[claim]: <The murder of a dockworker causes Terry Malloy to feel guilt and a desire for redemption.>
+[synopsis]: <Set on the brutal, crime-ridden docks of Hoboken, New Jersey, On the Waterfront is a powerful drama about corruption, moral courage, and redemption. The film stars Terry Malloy (Marlon Brando), a former boxer who now works as a longshoreman. He is a pawn in the corrupt union run by the ruthless and powerful boss Johnny Friendly. The film begins with Terry luring a fellow dockworker, Joey Doyle, to his death by a gang of thugs. Terry is told that Joey will only be "talked to," but the man is murdered for threatening to testify before the Crime Commission. Terry is immediately filled with guilt, which is compounded when he meets Joey's sister, Edie Doyle. Edie, a compassionate and determined woman, is a catalyst for Terry's change. As Terry's feelings for Edie grow, so does his internal conflict. He is torn between his loyalty to the union and his conscience, which is urging him to confess what he knows. He is also encouraged by the local priest, Father Barry, to stand up to the corruption. The film is a gripping exploration of moral decay and the difficult path to redemption. In a legendary and emotional scene, Terry confronts his brother, Charley, saying, "I coulda been a contender." The climax of the film sees Terry making a brave and dangerous choice that will change his life and the lives of all the workers on the waterfront forever.>
+[choices]: <(A) True (B) False>
+[selected choice]: (B
+[completion]: )False. The claim states that the murder causes Terry Malloy to feel guilt and a desire for redemption, but the synopsis makes it clear that he feels immediate guilt and that his desire for redemption is sparked when his guilt is "compounded" by meeting Joey's sister, Edie. The synopsis states that Terry's growing feelings for Edie are what cause him to be torn between his loyalties and his conscience, leading to his difficult path toward redemption.
+<|eot_id|>
+
+[Input]
+[movie_name]: <A Place in the Sun (1951)>
+[claim]: <George Eastman is confident that following his heart will secure both love and social success.>
+[synopsis]: <George Eastman, a young man from a modest background, is ambitious and eager to rise above his small-town life. While working at a steel company, he meets Alice Tripp, a kind and naïve factory worker, and Angela Vickers, a wealthy socialite. Torn between genuine affection for Alice and his desire for social status with Angela, George finds himself navigating a world of conflicting emotions and moral dilemmas. As his relationships with both women deepen, George’s choices lead to jealousy, deception, and tragedy. His ambition and desire for a better life push him to make morally questionable decisions, ultimately resulting in consequences that destroy his dreams and reshape the lives of those around him. A Place in the Sun explores love, ambition, and the high cost of trying to have it all.>
+[choice]: <(A) True (B) False>
+[selected choice]: (A
+[completion]: )True. Early in the film, George is portrayed as ambitious yet idealistic. His initial interactions with Alice and Angela are filled with optimism, and he seems to believe that he can balance his affection for Alice with the advantages of a relationship with Angela. He imagines a future where love and ambition coexist, and in his daydreams, he confidently envisions a life in which he achieves both emotional fulfillment and social elevation. This portrayal makes it plausible, at least at the start, that George thinks following his heart will lead to success in all areas of life.
+<|eot_id|>
+
+[Input]
